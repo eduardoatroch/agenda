@@ -1,0 +1,1 @@
+data source=edunote;initial catalog=fazendas;password=123;persist security info=True;user id=fazenda;workstation id=EDUNOTE;packet size=4096

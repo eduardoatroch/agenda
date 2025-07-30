@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupSisFaz", "SetupSisFaz.vdproj", "{ADBDAB38-BF2B-447E-97BA-5C6AB16C4AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADBDAB38-BF2B-447E-97BA-5C6AB16C4AE8}.Debug|Default.ActiveCfg = Debug
+		{ADBDAB38-BF2B-447E-97BA-5C6AB16C4AE8}.Debug|Default.Build.0 = Debug
+		{ADBDAB38-BF2B-447E-97BA-5C6AB16C4AE8}.Release|Default.ActiveCfg = Release
+		{ADBDAB38-BF2B-447E-97BA-5C6AB16C4AE8}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

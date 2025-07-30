@@ -1,0 +1,4 @@
+C:\Agenda\bin\Release\EVAgenda.exe.config
+C:\Agenda\obj\Release\EVAgenda.exe
+C:\Agenda\obj\Release\EVAgenda.xml
+C:\Agenda\obj\Release\EVAgenda.pdb

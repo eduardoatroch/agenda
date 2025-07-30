@@ -1,0 +1,85 @@
+/*
+  Agenda....: Versão 1.0.0.9
+  Objetivo..: ALteração em stored procedures
+
+  Atividades: - 
+
+*/
+
+update Contato se uf=null where uf=''
+GO
+
+ALTER procedure [dbo].[spAlterarContato]
+  @Nome as varchar(100),
+  @Endereco as varchar(100)=null,
+  @Bairro as varchar(50)=null,
+  @Cidade as varchar(50)=null,
+  @Uf as char(2)=null,
+  @Cep as char(8)=null,  
+  @WWW as varchar(200)=null,
+  @Email as varchar(200),
+  @PessoaContato as varchar(150)=null,
+  @Atividade as varchar(200)=null,
+  @Obs as varchar(500)=null,
+  @DataNascimento DateTime=null,
+  @CodigoContato as int
+as
+  update Contato
+  Set Nome=@Nome,
+      Endereco=@Endereco,
+      Bairro=@Bairro,
+      Cidade=@Cidade,
+      Uf=@Uf,
+      Cep=@Cep,     
+      Site=@WWW,
+      Email=@Email,
+      PessoaContato=@PessoaContato,
+      Atividade=@Atividade,
+      Observacoes=@Obs,
+	  DataNascimento=@DataNascimento
+  where CodigoContato=@CodigoContato
+GO
+
+
+ALTER procedure [dbo].[spIncluirContato]
+  @Nome as varchar(100),
+  @Endereco as varchar(100)=null,
+  @Bairro as varchar(50)=null,
+  @Cidade as varchar(50)=null,
+  @Uf as char(2)=null,
+  @Cep as char(8)=null,  
+  @WWW as varchar(200)=null,
+  @Email as varchar(200),
+  @PessoaContato as varchar(150)=null,
+  @Atividade as varchar(200)=null,
+  @Obs as varchar(500)=null,
+  @DataNascimento DateTime=null,
+  @CodigoContato as int output
+as
+  insert into Contato(Nome,
+                      Endereco,
+                      Bairro,
+                      Cidade,
+                      Uf,
+                      Cep,                      
+                      Site,
+                      Email,
+                      PessoaContato,
+                      Atividade,
+                      Observacoes,
+					  DataNascimento)
+  Values(@Nome,
+         @Endereco,
+         @Bairro,
+         @Cidade,
+         @Uf,
+         @Cep,         
+         @WWW,
+         @Email,
+         @PessoaContato,
+         @Atividade,
+         @Obs,
+		 @DataNascimento)
+select @CodigoContato=MAX(CodigoContato) from Contato
+GO
+

@@ -1,0 +1,59 @@
+/*
+  Agenda....: Versão 1.0.0.6
+  Objetivo..: ALteração de telefone
+
+
+  Atividades: - Alteração na tabela [ Contato ], criado campo [ Descricao  varchar(30) ]
+
+*/
+
+
+create procedure spAlterarContatoTelefone
+  @CodigoContato int,
+  @Numero varchar(20),
+  @tipo char(3),
+  @principal bit,
+  @descricao varchar(30),
+  @idContatoFone smallint
+as
+update ContatoFone
+set CodigoContato=@CodigoContato,
+    NumeroTelefone=@Numero,
+    Tipo=@tipo,
+    Principal=@principal,
+    Descricao=@descricao
+where idContatoFone=@idContatoFone
+go
+
+
+create procedure spIncluirContatoTelefone
+  @CodigoContato int,
+  @Numero varchar(20),
+  @tipo char(3),
+  @principal bit,
+  @descricao varchar(30)
+as
+insert into ContatoFone(CodigoContato,NumeroTelefone,Tipo,Principal,Descricao)
+values(@CodigoContato,@Numero,@tipo,@principal,@descricao)
+go
+
+
+
+ALTER view [dbo].[vwRetornarListaContatosTelefone]
+as
+select
+ cf.idContatoFone        as idContatoFone,
+ cf.NumeroTelefone       as numeroTelefone,
+ cf.Tipo                 as tipo,
+ flagPrincipal=case cf.Principal when 1 then 1 else 0 end,
+ cf.CodigoContato        as codigoContato,
+ isnull(cf.Descricao,'') as descricaoTelefone
+from ContatoFone cf
+GO
+
+
+
+
+
+
+

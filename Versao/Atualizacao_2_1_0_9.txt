@@ -1,0 +1,63 @@
+/*
+  Agenda....: Versão 2.1.0.9
+  Objetivo..: Criação de usuário
+
+  Atividades: - 
+
+*/
+
+
+/****** Object:  Table [dbo].[Usuario]    Script Date: 13/02/2018 17:00:48 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Usuario](
+	[IDUsuario] [int] IDENTITY(1,1) NOT NULL,
+	[Nome] [varchar](50) NULL,
+	[Senha] [varchar](50) NULL,
+	[Ativo] [char](1) NULL
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+
+create procedure spIncluirUsuario
+  @nome varchar(50),
+  @senhaCriptografada varchar(50),
+  @ativo char(1),
+  @id int output
+as
+insert into Usuario(Nome,senha,Ativo)
+values(@nome,@senhaCriptografada,@ativo)
+
+select @id=max(IDUsuario) from Usuario
+GO
+
+create procedure spAlterarUsuario
+  @nome varchar(50),
+  @senhaCriptografada varchar(50),
+  @ativo char(1),
+  @id int
+as
+update Usuario
+set Nome=@nome,senha=@senhaCriptografada,Ativo=@ativo
+where IDUsuario=@id
+GO
+
+create procedure spExcluirUsuario
+ @id int
+as
+delete from Usuario where IDUsuario=@id
+GO
+
+GRANT EXECUTE ON [dbo].[spIncluirUsuario] TO agendaacessos
+GO
+GRANT EXECUTE ON [dbo].[spAlterarUsuario] TO agendaacessos
+GO
+GRANT EXECUTE ON [dbo].[spExcluirUsuario] TO agendaacessos
+GO

@@ -1,0 +1,30 @@
+/*
+  Agenda....: Versão 1.0.0.4
+  Objetivo..: Gerar XML para exportar dados
+
+
+  Atividades: - 
+
+*/
+
+
+create view [dbo].[vwContatosXML]
+as
+select  
+ CodigoContato as codigoContato,
+ isnull(Nome,'') as NomeContato,
+ isnull(endereco,'') as Endereco,
+ isnull(bairro,'') as Bairro,
+ isnull(cidade,'') as Cidade,
+ isnull(uf,'') as UF,
+ isnull(cep,'') as Cep,
+ isnull(site,'') as EnderecoEletronico,
+ isnull(email,'') as EMail,
+ isnull(PessoaContato,'') as PessoaContato,
+ isnull(Atividade,'') as Atividade,
+ isnull(Observacoes,'') as Observacoes 
+from  Contato
+
+GO
+
+

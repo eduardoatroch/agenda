@@ -1,0 +1,186 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EVAgenda
+</name>
+</assembly>
+<members>
+<member name="T:Agenda.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.ARW10NE">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.ARW10SE">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.BINOCULR">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.DISK04">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.EXITS">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.EXITS1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.Ink_Jet">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.NOTE11">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.NOTE14">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.pessoas">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.printer">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.silhueta_do_usuario_318_79814">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.Telefone">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Agenda.My.Resources.Resources.WASTE">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Agenda.dsContatos">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Agenda.dsContatos.vwRetornarListaContatosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Agenda.dsContatos.vwRetornarListaContatosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Agenda.dsContatos.vwRetornarListaContatosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Agenda.dsContatosTableAdapters.vwRetornarListaContatosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Agenda.dsSalvarLerContatos">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Agenda.dsSalvarLerContatos.vwContatosXMLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Agenda.dsSalvarLerContatos.vwContatoTelefonesXMLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Agenda.dsSalvarLerContatos.vwContatoEmailsXMLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Agenda.dsSalvarLerContatos.vwContatosXMLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Agenda.dsSalvarLerContatos.vwContatoTelefonesXMLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Agenda.dsSalvarLerContatos.vwContatoEmailsXMLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Agenda.dsSalvarLerContatos.vwContatosXMLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Agenda.dsSalvarLerContatos.vwContatoTelefonesXMLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Agenda.dsSalvarLerContatos.vwContatoEmailsXMLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Agenda.dsSalvarLerContatosTableAdapters.vwContatosXMLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Agenda.dsSalvarLerContatosTableAdapters.vwContatoTelefonesXMLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Agenda.dsSalvarLerContatosTableAdapters.vwContatoEmailsXMLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>

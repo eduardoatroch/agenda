@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsRptTitulos" targetNamespace="http://tempuri.org/dsRptTitulos.xsd" xmlns:mstns="http://tempuri.org/dsRptTitulos.xsd" xmlns="http://tempuri.org/dsRptTitulos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="FazendasConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="FazendasConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SisFaz.My.MySettings.GlobalReference.Default.FazendasConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vwRptTitulosAbertoPorVencimentoTableAdapter" GeneratorDataComponentClassName="vwRptTitulosAbertoPorVencimentoTableAdapter" Name="vwRptTitulosAbertoPorVencimento" UserDataComponentName="vwRptTitulosAbertoPorVencimentoTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="FazendasConnectionString (MySettings)" DbObjectName="Fazendas.dbo.vwRptTitulosAbertoPorVencimento" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT CodigoFazenda, NomeFazenda, Titulo, TipoDoc, Venc, ValorOriginal, NomeFornec, Historico, DtPagto, ValorPago, Pago, CodFornec FROM dbo.vwRptTitulosAbertoPorVencimento</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="CodigoFazenda" DataSetColumn="CodigoFazenda" />
+              <Mapping SourceColumn="NomeFazenda" DataSetColumn="NomeFazenda" />
+              <Mapping SourceColumn="Titulo" DataSetColumn="Titulo" />
+              <Mapping SourceColumn="TipoDoc" DataSetColumn="TipoDoc" />
+              <Mapping SourceColumn="Venc" DataSetColumn="Venc" />
+              <Mapping SourceColumn="ValorOriginal" DataSetColumn="ValorOriginal" />
+              <Mapping SourceColumn="NomeFornec" DataSetColumn="NomeFornec" />
+              <Mapping SourceColumn="Historico" DataSetColumn="Historico" />
+              <Mapping SourceColumn="DtPagto" DataSetColumn="DtPagto" />
+              <Mapping SourceColumn="ValorPago" DataSetColumn="ValorPago" />
+              <Mapping SourceColumn="Pago" DataSetColumn="Pago" />
+              <Mapping SourceColumn="CodFornec" DataSetColumn="CodFornec" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsRptTitulos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsRptTitulos" msprop:Generator_DataSetName="dsRptTitulos">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vwRptTitulosAbertoPorVencimento" msprop:Generator_UserTableName="vwRptTitulosAbertoPorVencimento" msprop:Generator_RowDeletedName="vwRptTitulosAbertoPorVencimentoRowDeleted" msprop:Generator_TableClassName="vwRptTitulosAbertoPorVencimentoDataTable" msprop:Generator_RowChangedName="vwRptTitulosAbertoPorVencimentoRowChanged" msprop:Generator_RowClassName="vwRptTitulosAbertoPorVencimentoRow" msprop:Generator_RowChangingName="vwRptTitulosAbertoPorVencimentoRowChanging" msprop:Generator_RowEvArgName="vwRptTitulosAbertoPorVencimentoRowChangeEvent" msprop:Generator_RowEvHandlerName="vwRptTitulosAbertoPorVencimentoRowChangeEventHandler" msprop:Generator_TablePropName="vwRptTitulosAbertoPorVencimento" msprop:Generator_TableVarName="tablevwRptTitulosAbertoPorVencimento" msprop:Generator_RowDeletingName="vwRptTitulosAbertoPorVencimentoRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodigoFazenda" msdata:ReadOnly="true" msprop:Generator_UserColumnName="CodigoFazenda" msprop:Generator_ColumnPropNameInRow="CodigoFazenda" msprop:Generator_ColumnVarNameInTable="columnCodigoFazenda" msprop:Generator_ColumnPropNameInTable="CodigoFazendaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NomeFazenda" msdata:ReadOnly="true" msprop:Generator_UserColumnName="NomeFazenda" msprop:Generator_ColumnPropNameInRow="NomeFazenda" msprop:Generator_ColumnVarNameInTable="columnNomeFazenda" msprop:Generator_ColumnPropNameInTable="NomeFazendaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Titulo" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Titulo" msprop:Generator_ColumnPropNameInRow="Titulo" msprop:Generator_ColumnVarNameInTable="columnTitulo" msprop:Generator_ColumnPropNameInTable="TituloColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TipoDoc" msdata:ReadOnly="true" msprop:Generator_UserColumnName="TipoDoc" msprop:Generator_ColumnPropNameInRow="TipoDoc" msprop:Generator_ColumnVarNameInTable="columnTipoDoc" msprop:Generator_ColumnPropNameInTable="TipoDocColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="35" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Venc" msprop:Generator_UserColumnName="Venc" msprop:Generator_ColumnPropNameInRow="Venc" msprop:Generator_ColumnVarNameInTable="columnVenc" msprop:Generator_ColumnPropNameInTable="VencColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ValorOriginal" msdata:ReadOnly="true" msprop:Generator_UserColumnName="ValorOriginal" msprop:Generator_ColumnPropNameInRow="ValorOriginal" msprop:Generator_ColumnVarNameInTable="columnValorOriginal" msprop:Generator_ColumnPropNameInTable="ValorOriginalColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NomeFornec" msdata:ReadOnly="true" msprop:Generator_UserColumnName="NomeFornec" msprop:Generator_ColumnPropNameInRow="NomeFornec" msprop:Generator_ColumnVarNameInTable="columnNomeFornec" msprop:Generator_ColumnPropNameInTable="NomeFornecColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Historico" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Historico" msprop:Generator_ColumnPropNameInRow="Historico" msprop:Generator_ColumnVarNameInTable="columnHistorico" msprop:Generator_ColumnPropNameInTable="HistoricoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DtPagto" msdata:ReadOnly="true" msprop:Generator_UserColumnName="DtPagto" msprop:Generator_ColumnPropNameInRow="DtPagto" msprop:Generator_ColumnVarNameInTable="columnDtPagto" msprop:Generator_ColumnPropNameInTable="DtPagtoColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ValorPago" msdata:ReadOnly="true" msprop:Generator_UserColumnName="ValorPago" msprop:Generator_ColumnPropNameInRow="ValorPago" msprop:Generator_ColumnVarNameInTable="columnValorPago" msprop:Generator_ColumnPropNameInTable="ValorPagoColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Pago" msprop:Generator_UserColumnName="Pago" msprop:Generator_ColumnPropNameInRow="Pago" msprop:Generator_ColumnVarNameInTable="columnPago" msprop:Generator_ColumnPropNameInTable="PagoColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="CodFornec" msdata:ReadOnly="true" msprop:Generator_UserColumnName="CodFornec" msprop:Generator_ColumnPropNameInRow="CodFornec" msprop:Generator_ColumnVarNameInTable="columnCodFornec" msprop:Generator_ColumnPropNameInTable="CodFornecColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="6" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

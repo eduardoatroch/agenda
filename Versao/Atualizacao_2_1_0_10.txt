@@ -1,0 +1,19 @@
+/*
+  Agenda....: Versão 2.1.0.10
+  Objetivo..: Atualização da passagem de parâmetros nas procedures de inclusão/alteração de contatos
+
+  Atividades: - Nada alterado no Banco de Dados
+
+*/
+
+
+/*
+GRANT EXECUTE ON [dbo].[spIncluirUsuario] TO agendaacessos
+GO
+GRANT EXECUTE ON [dbo].[spAlterarUsuario] TO agendaacessos
+GO
+GRANT EXECUTE ON [dbo].[spExcluirUsuario] TO agendaacessos
+GO
+GRANT SELECT ON [dbo].[spExcluirUsuario] TO agendaacessos
+GO
+*/

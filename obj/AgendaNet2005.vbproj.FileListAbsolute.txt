@@ -1,0 +1,16 @@
+C:\AgendaNet2005\bin\Debug\AgendaNet2005.exe.config
+C:\AgendaNet2005\obj\Debug\AgendaNet2005.exe
+C:\AgendaNet2005\obj\Debug\AgendaNet2005.xml
+C:\AgendaNet2005\obj\Debug\AgendaNet2005.pdb
+C:\AgendaNet2005\obj\Release\ResolveAssemblyReference.cache
+C:\AgendaNet2005\obj\Release\AgendaNet2005.frmContatos.resources
+C:\AgendaNet2005\obj\Release\AgendaNet2005.frmIncluirEditarContato.resources
+C:\AgendaNet2005\obj\Release\AgendaNet2005.Resources.resources
+C:\AgendaNet2005\obj\Release\AgendaNet2005.vbproj.GenerateResource.Cache
+C:\AgendaNet2005\bin\Release\EVAgenda.exe.config
+C:\AgendaNet2005\bin\Release\EVAgenda.exe
+C:\AgendaNet2005\bin\Release\EVAgenda.pdb
+C:\AgendaNet2005\bin\Release\EVAgenda.xml
+C:\AgendaNet2005\obj\Release\EVAgenda.exe
+C:\AgendaNet2005\obj\Release\EVAgenda.xml
+C:\AgendaNet2005\obj\Release\EVAgenda.pdb

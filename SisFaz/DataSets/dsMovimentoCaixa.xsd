@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsMovimentoCaixa" targetNamespace="http://tempuri.org/dsMovimentoCaixa.xsd" xmlns:mstns="http://tempuri.org/dsMovimentoCaixa.xsd" xmlns="http://tempuri.org/dsMovimentoCaixa.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="FazendasConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="FazendasConnectionString1 (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SisFaz.My.MySettings.GlobalReference.Default.FazendasConnectionString1" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vwMovimentoCaixaTableAdapter" GeneratorDataComponentClassName="vwMovimentoCaixaTableAdapter" Name="vwMovimentoCaixa" UserDataComponentName="vwMovimentoCaixaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="FazendasConnectionString1 (MySettings)" DbObjectName="Fazendas.dbo.vwMovimentoCaixa" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT CodBanco, NomeBanco, Agenc, Conta, Fornecedor, TpMov, Docto, DataBaixa, ValorPago, Historico, Fazenda, Cliente FROM dbo.vwMovimentoCaixa</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="CodBanco" DataSetColumn="CodBanco" />
+              <Mapping SourceColumn="NomeBanco" DataSetColumn="NomeBanco" />
+              <Mapping SourceColumn="Agenc" DataSetColumn="Agenc" />
+              <Mapping SourceColumn="Conta" DataSetColumn="Conta" />
+              <Mapping SourceColumn="Fornecedor" DataSetColumn="Fornecedor" />
+              <Mapping SourceColumn="TpMov" DataSetColumn="TpMov" />
+              <Mapping SourceColumn="Docto" DataSetColumn="Docto" />
+              <Mapping SourceColumn="DataBaixa" DataSetColumn="DataBaixa" />
+              <Mapping SourceColumn="ValorPago" DataSetColumn="ValorPago" />
+              <Mapping SourceColumn="Historico" DataSetColumn="Historico" />
+              <Mapping SourceColumn="Fazenda" DataSetColumn="Fazenda" />
+              <Mapping SourceColumn="Cliente" DataSetColumn="Cliente" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsMovimentoCaixa" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsMovimentoCaixa" msprop:Generator_DataSetName="dsMovimentoCaixa">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vwMovimentoCaixa" msprop:Generator_UserTableName="vwMovimentoCaixa" msprop:Generator_RowDeletedName="vwMovimentoCaixaRowDeleted" msprop:Generator_TableClassName="vwMovimentoCaixaDataTable" msprop:Generator_RowChangedName="vwMovimentoCaixaRowChanged" msprop:Generator_RowClassName="vwMovimentoCaixaRow" msprop:Generator_RowChangingName="vwMovimentoCaixaRowChanging" msprop:Generator_RowEvArgName="vwMovimentoCaixaRowChangeEvent" msprop:Generator_RowEvHandlerName="vwMovimentoCaixaRowChangeEventHandler" msprop:Generator_TablePropName="vwMovimentoCaixa" msprop:Generator_TableVarName="tablevwMovimentoCaixa" msprop:Generator_RowDeletingName="vwMovimentoCaixaRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodBanco" msdata:ReadOnly="true" msprop:Generator_UserColumnName="CodBanco" msprop:Generator_ColumnPropNameInRow="CodBanco" msprop:Generator_ColumnVarNameInTable="columnCodBanco" msprop:Generator_ColumnPropNameInTable="CodBancoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NomeBanco" msdata:ReadOnly="true" msprop:Generator_UserColumnName="NomeBanco" msprop:Generator_ColumnPropNameInRow="NomeBanco" msprop:Generator_ColumnVarNameInTable="columnNomeBanco" msprop:Generator_ColumnPropNameInTable="NomeBancoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Agenc" msprop:Generator_UserColumnName="Agenc" msprop:Generator_ColumnPropNameInRow="Agenc" msprop:Generator_ColumnVarNameInTable="columnAgenc" msprop:Generator_ColumnPropNameInTable="AgencColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Conta" msprop:Generator_UserColumnName="Conta" msprop:Generator_ColumnPropNameInRow="Conta" msprop:Generator_ColumnVarNameInTable="columnConta" msprop:Generator_ColumnPropNameInTable="ContaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Fornecedor" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Fornecedor" msprop:Generator_ColumnPropNameInRow="Fornecedor" msprop:Generator_ColumnVarNameInTable="columnFornecedor" msprop:Generator_ColumnPropNameInTable="FornecedorColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TpMov" msdata:ReadOnly="true" msprop:Generator_UserColumnName="TpMov" msprop:Generator_ColumnPropNameInRow="TpMov" msprop:Generator_ColumnVarNameInTable="columnTpMov" msprop:Generator_ColumnPropNameInTable="TpMovColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Docto" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Docto" msprop:Generator_ColumnPropNameInRow="Docto" msprop:Generator_ColumnVarNameInTable="columnDocto" msprop:Generator_ColumnPropNameInTable="DoctoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DataBaixa" msdata:ReadOnly="true" msprop:Generator_UserColumnName="DataBaixa" msprop:Generator_ColumnPropNameInRow="DataBaixa" msprop:Generator_ColumnVarNameInTable="columnDataBaixa" msprop:Generator_ColumnPropNameInTable="DataBaixaColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ValorPago" msdata:ReadOnly="true" msprop:Generator_UserColumnName="ValorPago" msprop:Generator_ColumnPropNameInRow="ValorPago" msprop:Generator_ColumnVarNameInTable="columnValorPago" msprop:Generator_ColumnPropNameInTable="ValorPagoColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Historico" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Historico" msprop:Generator_ColumnPropNameInRow="Historico" msprop:Generator_ColumnVarNameInTable="columnHistorico" msprop:Generator_ColumnPropNameInTable="HistoricoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Fazenda" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Fazenda" msprop:Generator_ColumnPropNameInRow="Fazenda" msprop:Generator_ColumnVarNameInTable="columnFazenda" msprop:Generator_ColumnPropNameInTable="FazendaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Cliente" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Cliente" msprop:Generator_ColumnPropNameInRow="Cliente" msprop:Generator_ColumnVarNameInTable="columnCliente" msprop:Generator_ColumnPropNameInTable="ClienteColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsRptCheques" targetNamespace="http://tempuri.org/dsRptCheques.xsd" xmlns:mstns="http://tempuri.org/dsRptCheques.xsd" xmlns="http://tempuri.org/dsRptCheques.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="FazendasConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="FazendasConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SisFaz.My.MySettings.GlobalReference.Default.FazendasConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vwRptChequesEmitidosTableAdapter" GeneratorDataComponentClassName="vwRptChequesEmitidosTableAdapter" Name="vwRptChequesEmitidos" UserDataComponentName="vwRptChequesEmitidosTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="FazendasConnectionString (MySettings)" DbObjectName="Fazendas.dbo.vwRptChequesEmitidos" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT CodCheque, NumCheque, DataEmissao, ValorCheque, Titulo, CodigoFazenda, NomeFazenda, Historico, Impresso, Cancelado, DataCancelamento FROM dbo.vwRptChequesEmitidos</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="CodCheque" DataSetColumn="CodCheque" />
+              <Mapping SourceColumn="NumCheque" DataSetColumn="NumCheque" />
+              <Mapping SourceColumn="DataEmissao" DataSetColumn="DataEmissao" />
+              <Mapping SourceColumn="ValorCheque" DataSetColumn="ValorCheque" />
+              <Mapping SourceColumn="Titulo" DataSetColumn="Titulo" />
+              <Mapping SourceColumn="CodigoFazenda" DataSetColumn="CodigoFazenda" />
+              <Mapping SourceColumn="NomeFazenda" DataSetColumn="NomeFazenda" />
+              <Mapping SourceColumn="Historico" DataSetColumn="Historico" />
+              <Mapping SourceColumn="Impresso" DataSetColumn="Impresso" />
+              <Mapping SourceColumn="Cancelado" DataSetColumn="Cancelado" />
+              <Mapping SourceColumn="DataCancelamento" DataSetColumn="DataCancelamento" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsRptCheques" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsRptCheques" msprop:Generator_DataSetName="dsRptCheques">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vwRptChequesEmitidos" msprop:Generator_UserTableName="vwRptChequesEmitidos" msprop:Generator_RowDeletedName="vwRptChequesEmitidosRowDeleted" msprop:Generator_TableClassName="vwRptChequesEmitidosDataTable" msprop:Generator_RowChangedName="vwRptChequesEmitidosRowChanged" msprop:Generator_RowClassName="vwRptChequesEmitidosRow" msprop:Generator_RowChangingName="vwRptChequesEmitidosRowChanging" msprop:Generator_RowEvArgName="vwRptChequesEmitidosRowChangeEvent" msprop:Generator_RowEvHandlerName="vwRptChequesEmitidosRowChangeEventHandler" msprop:Generator_TablePropName="vwRptChequesEmitidos" msprop:Generator_TableVarName="tablevwRptChequesEmitidos" msprop:Generator_RowDeletingName="vwRptChequesEmitidosRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodCheque" msdata:ReadOnly="true" msprop:Generator_UserColumnName="CodCheque" msprop:Generator_ColumnPropNameInRow="CodCheque" msprop:Generator_ColumnVarNameInTable="columnCodCheque" msprop:Generator_ColumnPropNameInTable="CodChequeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="6" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NumCheque" msprop:Generator_UserColumnName="NumCheque" msprop:Generator_ColumnPropNameInRow="NumCheque" msprop:Generator_ColumnVarNameInTable="columnNumCheque" msprop:Generator_ColumnPropNameInTable="NumChequeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DataEmissao" msprop:Generator_UserColumnName="DataEmissao" msprop:Generator_ColumnPropNameInRow="DataEmissao" msprop:Generator_ColumnVarNameInTable="columnDataEmissao" msprop:Generator_ColumnPropNameInTable="DataEmissaoColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ValorCheque" msprop:Generator_UserColumnName="ValorCheque" msprop:Generator_ColumnPropNameInRow="ValorCheque" msprop:Generator_ColumnVarNameInTable="columnValorCheque" msprop:Generator_ColumnPropNameInTable="ValorChequeColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Titulo" msprop:Generator_UserColumnName="Titulo" msprop:Generator_ColumnPropNameInRow="Titulo" msprop:Generator_ColumnVarNameInTable="columnTitulo" msprop:Generator_ColumnPropNameInTable="TituloColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CodigoFazenda" msdata:ReadOnly="true" msprop:Generator_UserColumnName="CodigoFazenda" msprop:Generator_ColumnPropNameInRow="CodigoFazenda" msprop:Generator_ColumnVarNameInTable="columnCodigoFazenda" msprop:Generator_ColumnPropNameInTable="CodigoFazendaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NomeFazenda" msprop:Generator_UserColumnName="NomeFazenda" msprop:Generator_ColumnPropNameInRow="NomeFazenda" msprop:Generator_ColumnVarNameInTable="columnNomeFazenda" msprop:Generator_ColumnPropNameInTable="NomeFazendaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Historico" msprop:Generator_UserColumnName="Historico" msprop:Generator_ColumnPropNameInRow="Historico" msprop:Generator_ColumnVarNameInTable="columnHistorico" msprop:Generator_ColumnPropNameInTable="HistoricoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Impresso" msprop:Generator_UserColumnName="Impresso" msprop:Generator_ColumnPropNameInRow="Impresso" msprop:Generator_ColumnVarNameInTable="columnImpresso" msprop:Generator_ColumnPropNameInTable="ImpressoColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Cancelado" msprop:Generator_UserColumnName="Cancelado" msprop:Generator_ColumnPropNameInRow="Cancelado" msprop:Generator_ColumnVarNameInTable="columnCancelado" msprop:Generator_ColumnPropNameInTable="CanceladoColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="DataCancelamento" msdata:ReadOnly="true" msprop:Generator_UserColumnName="DataCancelamento" msprop:Generator_ColumnPropNameInRow="DataCancelamento" msprop:Generator_ColumnVarNameInTable="columnDataCancelamento" msprop:Generator_ColumnPropNameInTable="DataCancelamentoColumn" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

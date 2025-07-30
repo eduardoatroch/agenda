@@ -1,0 +1,110 @@
+/*
+  Agenda....: Versão 1.0.0.8
+  Objetivo..: ALteração de Data de Nascimento nos contatos
+
+
+  Atividades: - Alteração na tabela [ Contato ], criado campo [ DataNascimento  datetime ]
+
+*/
+
+
+
+ALTER procedure [dbo].[spIncluirContato]
+  @Nome as varchar(100),
+  @Endereco as varchar(100),
+  @Bairro as varchar(50),
+  @Cidade as varchar(50),
+  @Uf as char(2),
+  @Cep as char(8), 
+  @WWW as varchar(200),
+  @Email as varchar(200),
+  @PessoaContato as varchar(150),
+  @Atividade as varchar(200),
+  @Obs as varchar(500),
+  @DataNascimento DateTime=null,
+  @CodigoContato as int output
+as
+  insert into Contato(Nome,
+                      Endereco,
+                      Bairro,
+                      Cidade,
+                      Uf,
+                      Cep,                      
+                      Site,
+                      Email,
+                      PessoaContato,
+                      Atividade,
+                      Observacoes,
+					  DataNascimento)
+  Values(@Nome,
+         @Endereco,
+         @Bairro,
+         @Cidade,
+         @Uf,
+         @Cep,         
+         @WWW,
+         @Email,
+         @PessoaContato,
+         @Atividade,
+         @Obs,
+		 @DataNascimento)
+select @CodigoContato=MAX(CodigoContato) from Contato
+
+go
+
+
+ALTER procedure [dbo].[spAlterarContato]
+  @Nome as varchar(100),
+  @Endereco as varchar(100),
+  @Bairro as varchar(50),
+  @Cidade as varchar(50),
+  @Uf as char(2),
+  @Cep as char(8),  
+  @WWW as varchar(200),
+  @Email as varchar(200),
+  @PessoaContato as varchar(150),
+  @Atividade as varchar(200),
+  @Obs as varchar(500),
+  @DataNascimento DateTime=null,
+  @CodigoContato as int
+as
+  update Contato
+  Set Nome=@Nome,
+      Endereco=@Endereco,
+      Bairro=@Bairro,
+      Cidade=@Cidade,
+      Uf=@Uf,
+      Cep=@Cep,     
+      Site=@WWW,
+      Email=@Email,
+      PessoaContato=@PessoaContato,
+      Atividade=@Atividade,
+      Observacoes=@Obs,
+	  DataNascimento=@DataNascimento
+  where CodigoContato=@CodigoContato
+
+go
+
+
+ALTER view [dbo].[vwRetornarListaContatos]
+as
+select 
+ CodigoContato as Codigo,
+ isnull(Nome,'') as NomeContato,
+ isnull(endereco,'') as Endereco,
+ isnull(bairro,'') as Bairro,
+ isnull(cidade,'') as Cidade,
+ isnull(uf,'') as UF,
+ isnull(cep,'') as Cep,
+ isnull(site,'') as EnderecoEletronico,
+ isnull(email,'') as EMail,
+ isnull(PessoaContato,'') as PessoaContato,
+ isnull(Atividade,'') as Atividade,
+ isnull(Observacoes,'') as Observacoes,
+ isnull(dbo.fctRetornarTelefonesContato(CodigoContato),'') as Telefones,
+ isnull(DataNascimento,'1900-01-01 00:00:00.000') as DataNascimento
+from  Contato
+
+GO
+
+

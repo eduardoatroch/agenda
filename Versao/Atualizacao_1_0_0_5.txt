@@ -1,0 +1,30 @@
+/*
+  Agenda....: Versão 1.0.0.5
+  Objetivo..: Criada a função para Alteração de e-mail
+
+
+  Atividades: - 
+
+*/
+
+create procedure spAlterarContatoEmail
+  @CodigoContato Int,
+  @DescricaoEmail VarChar(50),
+  @Principal Bit,
+  @idContatoEmail smallint
+as
+if @Principal=1 begin
+   update ContatoEmail set Principal=0 where CodigoContato=@CodigoContato
+end
+
+update ContatoEmail
+set CodigoContato=@CodigoContato,
+    DescricaoEmail=@DescricaoEmail,
+    Principal=@Principal
+where idContatoEmail=@idContatoEmail
+go
+
+
+
+
+

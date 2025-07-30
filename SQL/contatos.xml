@@ -1,0 +1,5667 @@
+<?xml version="1.0" standalone="yes"?>
+<dsSalvarLerContatos xmlns="http://tempuri.org/dsSalvarLerContatos.xsd">
+  <vwLerContatos>
+    <Nome>NONATO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>325-6125</FoneCom>
+    <FoneCel>9989-2419</FoneCel>
+    <FoneRes>3399-6405</FoneRes>
+    <PaginaWeb>625-4985</PaginaWeb>
+    <EnderElet>nonato@emplavi.com.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs>BrB AG. 100 Conta. 109952-1</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>NOTEBOOK</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>(16) 3376-3065</FoneCom>
+    <FoneCel>8129-8704</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>ADRIANO</Contato>
+    <Atividade>INFORMATICA REVENDA</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>COLEGIO GALOIS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>224-2070</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>COLEGIO MILITAR</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>321-6664</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>COLEGIO OBJETIVO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>345-9108</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>COLEGIO PROJECAO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>382-2772</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>COLEGIO ROGACIONISTA</Nome>
+    <Ender />
+    <Bairro>CNPJ: 83.660.225/0003-63</Bairro>
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3301-5737</FoneCom>
+    <FoneCel>3301-5482</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>roga@roga.com.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>COMPUTER STAR</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3031-7900</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>frank@starcompany.com.br</EnderElet>
+    <Contato>FRANK 3031-7908</Contato>
+    <Atividade>LOJA DE INFORMATICA</Atividade>
+    <Obs>Vânia Miranda 9969-8834</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CONECTA</Nome>
+    <Ender>SCLN 311 BL A LJ 07</Ender>
+    <Bairro>ASA NORTE</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3031-1211</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>CASIA 9832-4227</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CONSTRUTORA HELBOR</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>11-4295-8555</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>WILLIAN - CHEFE DPTO. CONTRATO</Contato>
+    <Atividade>CONSTRUCAO CIVIL</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CORREIO BRASILIENSE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>342-1000</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>ANUNCIOS</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CORREIOS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800-570 0100</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CRYSTAL - BRUNO MORONTE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>8122-6120</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CTIS INFORMATICA</Nome>
+    <Ender>511 NORTE</Ender>
+    <Bairro>ASA NORTE</Bairro>
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3217-9032</FoneCom>
+    <FoneCel>3217-9030 FAX</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Renato 8451-3437</Contato>
+    <Atividade>Informática</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MGR Construções</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3964-5770</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>George Alberto 8616-9125</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DANIELE MACHADO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>81-8819-9861</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DARLAN PARENTE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom />
+    <FoneCel>9634-6710</FoneCel>
+    <FoneRes>3484-1669</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>CONTATO</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DAVI MACHADO ATROCK</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>8142-8779</FoneCel>
+    <FoneRes>8142-0185</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>CPF 021.463.531-71  RG. 2.366.467/DF Exp.13/09/2001 - Bco.104 Ag. 0643 Op.013 Cta. 00011808-5</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DELL COMPUTADORES</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>0800-7014174</FoneCom>
+    <FoneCel>0800-70 11 267</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>CONTATO</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DETRAN</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>342-1811</FoneCom>
+    <FoneCel />
+    <FoneRes>1514</FoneRes>
+    <PaginaWeb>1514</PaginaWeb>
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DIMAS DUTRA</Nome>
+    <Ender>QE 7 BLOCO B SALAS 101,108,112,115,116,212</Ender>
+    <Bairro>GUARA I</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3381-3736</FoneCom>
+    <FoneCel>3039-3736</FoneCel>
+    <FoneRes>3036-8696 Fax</FoneRes>
+    <PaginaWeb>03.586.468/0001-06</PaginaWeb>
+    <EnderElet>clinica@ortopreve.com.br</EnderElet>
+    <Contato>SIMONE simonedf@bol.com.br</Contato>
+    <Atividade>Roberta</Atividade>
+    <Obs>BANCO.341 AG.1528 COTA.15901-3 - Simone 9951-3440 / Paulo ou Túlio 3036-5656</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DJALMA MILANO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>(81)-976-7321</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. GENTIL</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3364-3078</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. GILVAN ALVES</Nome>
+    <Ender>SHIS QI 15 CJ. G BL. O SL. 11/13</Ender>
+    <Bairro>LAGO SUL (HOSTPITAL BRASILIA)</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3364-4104</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>www.drgilvan.com.br</PaginaWeb>
+    <EnderElet />
+    <Contato />
+    <Atividade>DERMATOLOGIA</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ABACUS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>(55)222-9016</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>RX@VIA-RS.NET</EnderElet>
+    <Contato>CONTATO</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ABORDO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>326-7703</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ADAIR SILVA</Nome>
+    <Ender>SQS CONJ. K AP.105</Ender>
+    <Bairro>ASA SUL</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep>70274110</Cep>
+    <FoneCom>318-6868</FoneCom>
+    <FoneCel>9913-0212</FoneCel>
+    <FoneRes>3346-6756</FoneRes>
+    <PaginaWeb>397-2225</PaginaWeb>
+    <EnderElet />
+    <Contato />
+    <Atividade>Servidor Público</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ADAO JOSE VAZ</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>348-9818</FoneCom>
+    <FoneCel />
+    <FoneRes>552-2559</FoneRes>
+    <PaginaWeb>552-2559</PaginaWeb>
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>AEROCLUBE DE BRAGANÇA PAULISTA</Nome>
+    <Ender>R.ARTUR SIQUEIRA NR 651</Ender>
+    <Bairro>CNPJ: 45.618.121/0001-30</Bairro>
+    <Cid>BRAGANÇA PAULISTA</Cid>
+    <Uf>SP</Uf>
+    <Cep>12916000</Cep>
+    <FoneCom>11-4032-7857</FoneCom>
+    <FoneCel>11-4033-0967</FoneCel>
+    <FoneRes />
+    <PaginaWeb>R$ 189,00 hora vôo</PaginaWeb>
+    <EnderElet>Bc.001  Ag. 0167-8   Conta.1701-9</EnderElet>
+    <Contato>Paulo</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>AEROPORTO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>364-9000</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>AGROFERTIL</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>(81)3479-2122</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LUCAS (AMIGO DE DAVI)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>9115-6637</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ALESSANDRO - CATOLICA</Nome>
+    <Ender>SIG QUADRA 8 LOTE 2268</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3344-2112</FoneCom>
+    <FoneCel>9658-8149</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>ALESSANDRO@IDEALGRAFICA.COM.BR</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs>Última rua setor gráfico</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ALEXANDRE - AMIGO DE JORGE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>(81)3341-1833</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ALEXANDRE ATROCK</Nome>
+    <Ender>Av. Bernardo Vieira de Melo, 4870, Ap. 104</Ender>
+    <Bairro>Candeias</Bairro>
+    <Cid>Recife</Cid>
+    <Uf>PE</Uf>
+    <Cep>54440010</Cep>
+    <FoneCom>(81)3339-8565</FoneCom>
+    <FoneCel>(81) 9113-9585</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>9252-5661 - LARISSA</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ALTINA - VIZINHA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3568-6193</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>CONTATO</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>AMERICEL</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>1281</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ANA - MAE DE CARLA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>381-4761</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ANA MARIA PAZ - APARTAMENTO</Nome>
+    <Ender />
+    <Bairro>MAURICIO 3311-3415 / 9970-0190</Bairro>
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3411-6828</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>CONTATO</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ANDRE DE ALBUQUERQUE ATROCK</Nome>
+    <Ender>QI 6 CONJ. F CASA 24</Ender>
+    <Bairro>BC. 001 AG. 3604-8 CTA. 5517-4</Bairro>
+    <Cid>RG.2466722 SSP/PE</Cid>
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>71010064</Cep>
+    <FoneCom>3216-3701</FoneCom>
+    <FoneCel>8406-4744</FoneCel>
+    <FoneRes>3202-2648</FoneRes>
+    <PaginaWeb />
+    <EnderElet>ANDRE.ATROCK@CAMARA.GOV.BR</EnderElet>
+    <Contato>CARLA: 9105-2425</Contato>
+    <Atividade>CPF: 380.731.534-91 23/10/2003</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ANDRE LUIZ</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>429-2796</FoneCom>
+    <FoneCel>9976-9326</FoneCel>
+    <FoneRes>568-5431</FoneRes>
+    <PaginaWeb>568-5431</PaginaWeb>
+    <EnderElet>ANDRESOUSA@CAIXASEGUROS.COM.BR</EnderElet>
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ANDREANE REIS SILVA DE OLIVEIRA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes>3036-3108</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>AR CONDICIONADO (ENGEFRIO)</Nome>
+    <Ender>SOF SUL Q.4 CJ. B LT.1</Ender>
+    <Bairro>SETOR DE OFICINAS SUL</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>UANDERSON</Contato>
+    <Atividade>MANUTENCAO AR-CONDICIONADO</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ARRECIFES</Nome>
+    <Ender>AV.ENG.ANTONIO DE GOES, 142, PINA</Ender>
+    <Bairro>13ª V.CIVIL 0012005 016156-4</Bairro>
+    <Cid>ALEXANDRE 21/06/05</Cid>
+    <Uf>PE</Uf>
+    <Cep>51010000</Cep>
+    <FoneCom>(81) 3465-4455</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>Ger.Vendas  Valter 9144-1871 (342-5332)</PaginaWeb>
+    <EnderElet>frederico@arrecifes.com.br</EnderElet>
+    <Contato>TJPE.GOV.BR</Contato>
+    <Atividade>VENC 14/07</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ASCON CONTABILIDADE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3344-0000</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>www.ascondominio.com.br</PaginaWeb>
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ASSISTENCIA DECA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>567-5345</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ATLETICA ACADEMIA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>568-5626</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>IMPSAT TELECOMUNICACOES</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800 771 4747</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>DATACENTER</Atividade>
+    <Obs>ID: EDE409</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BANCA DOS CONCURSOS</Nome>
+    <Ender>506 SUL</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>242-8649</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BANCO CAIXA ECONOMICA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>2102-6800</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>NO CASO DE ROUBO LIGAR 0800-5740505</PaginaWeb>
+    <EnderElet />
+    <Contato>Tecnologia: 0800-726 0104</Contato>
+    <Atividade />
+    <Obs>https://imagem.caixa.gov.br/banner/fgr/gbpcef.exe</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BANCO DE BRASILIA - BRB</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3328-1105</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>Lucia Helena - Gerente devolucia (328-1105)</PaginaWeb>
+    <EnderElet />
+    <Contato>CARLOS ALFREDO - GERENTE</Contato>
+    <Atividade>FINANCEIRA</Atividade>
+    <Obs>SÉRGIO BARROSO: 3412-8246</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BANCO DO BRASIL</Nome>
+    <Ender>AG.2376-0 CTA. 9036-0</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3346-7200</FoneCom>
+    <FoneCel>3346-9504</FoneCel>
+    <FoneRes>3346-7093</FoneRes>
+    <PaginaWeb />
+    <EnderElet>BB Responde 0800-785678</EnderElet>
+    <Contato>Jailton 3310-9464 ou 9292-9280</Contato>
+    <Atividade />
+    <Obs>Suporte 3003-0600  Ger. Financ. 3003-0500</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BANCO FIAT</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3321-6363</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BANCO PANAMERICANO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>(11)3115-6795</FoneCom>
+    <FoneCel>4003-0101</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Focus Information Security</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3244-3542</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Eduardo Lutz: 8441-3759</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CVC Turismo</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3234-0446</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>joao</Contato>
+    <Atividade>Agência de Turismo</Atividade>
+    <Obs>Financeiro Patrícia</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BANCORBRAS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3225-5920</FoneCom>
+    <FoneCel>9203-1974</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>HERLANE</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BARTOLOMEU (COND QI 22 P)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3567-3507</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BIOENERGIA RESTAURANTE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>327-4096</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BIOLOG</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>248-6496</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>BIOLOG@TERRA.COM.BR</EnderElet>
+    <Contato>CONTATO:  LUIZ PENEDO</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BOSTON</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800 709 9999</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BRASILTELECOM</Nome>
+    <Ender>3346-7192 LINHA DO CPD</Ender>
+    <Bairro>MODEM EDUARDO DLINK 500G</Bairro>
+    <Cid>0800-644 4000 BRTURBO PROVEDOR</Cid>
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>10314</FoneCom>
+    <FoneCel>0800-641 4040</FoneCel>
+    <FoneRes />
+    <PaginaWeb>Hilton  Rocha 3323-3699 / 8401-6750</PaginaWeb>
+    <EnderElet />
+    <Contato>SUPORTE: 0800-643 0014</Contato>
+    <Atividade>IPTURBO 512/512 BX.EM 31/01/05</Atividade>
+    <Obs>Anderson 8404-5128  - protocolo: 24206068 tatiane 9054013210</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BRUNO MARCIO MORONTE</Nome>
+    <Ender>R.BURITI LOTE 05 APTO. 801</Ender>
+    <Bairro>AGUAS CLARAS</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep>71940000</Cep>
+    <FoneCom>3415-9026</FoneCom>
+    <FoneCel>8122-6120</FoneCel>
+    <FoneRes>3435-8527</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>                    RG.4089197 SSP/MG CPF 034.745.026-11  BC. 001 AG. 4599-3 CTA. 8235-X                                                                                                                </Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ORACLE DO BRASIL</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>0800-901985</FoneCom>
+    <FoneCel />
+    <FoneRes>3035-7100</FoneRes>
+    <PaginaWeb>3035-7100</PaginaWeb>
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>OFICINA JM</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3245-6434</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>JOANA</Contato>
+    <Atividade />
+    <Obs>Ricardo</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CLINICA DAHER</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>248-4848</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CLUBE DELPHI</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>(21) 2213-0940</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>ADMIN@CLUBEDELPHI.COM.BR</EnderElet>
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CNA INGLES</Nome>
+    <Ender />
+    <Bairro>GUARA</Bairro>
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>567-4873</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. JOSE ALTINO</Nome>
+    <Ender>SHLS 716 BL 1 CJ L SL 219/221 - TORRE I</Ender>
+    <Bairro>ASA SUL</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3346-7928</FoneCom>
+    <FoneCel />
+    <FoneRes>3345-7636</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>MEDICO OFTALMOLOGISTA</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. LUIZ CASTRO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3233-2729</FoneCom>
+    <FoneCel>9986-8770</FoneCel>
+    <FoneRes>3344-5154</FoneRes>
+    <PaginaWeb>344-5154</PaginaWeb>
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. ONALDO ROSSI</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3245-5721</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>Cardiologista</Atividade>
+    <Obs>IBOC</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. PAULO HENRIQUE</Nome>
+    <Ender>CLINICA INTERLAR 340-1359</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3340-1359</FoneCom>
+    <FoneCel>9912-4975</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>KALI</Contato>
+    <Atividade>MEDICO</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. EDUARDO CALIXTO SALIBA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3381-0606</FoneCom>
+    <FoneCel>61 3032-0606</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>EDUARDO ATROCH MACHADO</Nome>
+    <Ender>QI 22 BLOCO P APTO 104</Ender>
+    <Bairro>GUARA I</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep>71015168</Cep>
+    <FoneCom>3345-9426</FoneCom>
+    <FoneCel>8121-2838</FoneCel>
+    <FoneRes>3382-3110</FoneRes>
+    <PaginaWeb>bb.38274162</PaginaWeb>
+    <EnderElet>eduardoatroch@emplavi.com.br</EnderElet>
+    <Contato>Visa 4013 7000 1344 8875</Contato>
+    <Atividade>15º 50' 20,70" S  &amp; 47º 58' 59</Atividade>
+    <Obs>Nº Série Nokia E61  -  356211004519149  Saber o Serial do aparelho celular: *#06#</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>EDUARDO MAGALHAES - CATOLICA</Nome>
+    <Ender>MATRIC. 2002018431</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>323-8137</FoneCom>
+    <FoneCel>9605-9756</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>edmagalha@bol.com.br</EnderElet>
+    <Contato>CONTATO</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ESTATISTICA - ESTAT. CONSULTORIA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>9904-4232</FoneCom>
+    <FoneCel>8426-6894*</FoneCel>
+    <FoneRes>8418-2877</FoneRes>
+    <PaginaWeb />
+    <EnderElet>danielklinger@pop.com.br</EnderElet>
+    <Contato>ALAN, DANIEL*, LEANDRO</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>FABIANO CHOUEIRI</Nome>
+    <Ender>CAMARA DOS DEPUTADOS</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>216-3920</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>FERANDO HENRIQUE - CATOLICA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom />
+    <FoneCel>9644-0406</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>FERNANDO DURÃES</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>9184-2714</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>FINASA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>4004-4433</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>EDUARDO</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>FRANK - STAR COMPANY</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3031-7908</FoneCom>
+    <FoneCel>8164-7848</FoneCel>
+    <FoneRes>7900</FoneRes>
+    <PaginaWeb />
+    <EnderElet>frank@starcompany.com.br</EnderElet>
+    <Contato>Cleber</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GADO - CONTROLMAX</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>62-3541-0753</FoneCom>
+    <FoneCel>3241-2252</FoneCel>
+    <FoneRes />
+    <PaginaWeb>02/08 Fabiana / Ged</PaginaWeb>
+    <EnderElet />
+    <Contato />
+    <Atividade>SOFTWAREHOUSE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GALDINO (EMPLAVI)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3323-1023</FoneCom>
+    <FoneCel>9983-0978</FoneCel>
+    <FoneRes>3462-1639</FoneRes>
+    <PaginaWeb />
+    <EnderElet>galdino@emplavi.com.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GENESIO PEREIRA DE SOUZA MACHADO</Nome>
+    <Ender>RUA Estudanta Antônio Farias Filho, 195</Ender>
+    <Bairro>Túmulo 529  Nº.51  Q.28</Bairro>
+    <Cid>Parque das Flores</Cid>
+    <Uf>PE</Uf>
+    <Cep>50760660</Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>Bco.Real (11)3353-4700 Opção 1 - Capitalização - Maxwell</PaginaWeb>
+    <EnderElet>CPF 014.031.924-72</EnderElet>
+    <Contato>B.Brasil 549014 - DUU</Contato>
+    <Atividade>APOSENTADO</Atividade>
+    <Obs>Maria José Aparecida Costa de Sousa Rg. 4.402.625 SSP/PE / CPF 821.521.954-34</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GERALDINA (TIA)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>(81) 3272-8445</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GERALDO (TIO)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>(81) 9977-5688</FoneCel>
+    <FoneRes>(81) 3327-8332</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GERALDO NUNES</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(81) 3088-6517</FoneCom>
+    <FoneCel>(81) 9292-2549</FoneCel>
+    <FoneRes>(81) 3361-0122</FoneRes>
+    <PaginaWeb>3361-0122</PaginaWeb>
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GIL PEREIRA</Nome>
+    <Ender>QL 12 CONJ. 4 CASA 19</Ender>
+    <Bairro>LAGO SUL</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes>3248-0152</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Linha ADSL 3364-4199 Suporte 0800-643 0014</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GILSON BALTAR</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(81) 3221-3170</FoneCom>
+    <FoneCel>(61) 9979-9020</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GISELDA PEREIRA DE SOUZA MACHADO</Nome>
+    <Ender>RUA RODRIGUES FERREIRA Nº 45 APTO.1004</Ender>
+    <Bairro>VÁRZEA</Bairro>
+    <Cid>RECIFE</Cid>
+    <Uf>PE</Uf>
+    <Cep>50810020</Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes>(81) 3074-6772</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>PROF.EDUCAÇÃO FÍSICA</Atividade>
+    <Obs>RG.986347 SSP/PE  -  CPF 126.427.624-91 - Bco. 001 Ag.  3613-7 Cta. 31415-3</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GOL LINHAS AEREAS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>0300-789-2121</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GOLDEN CROSS</Nome>
+    <Ender>4004-2001 Nacional</Ender>
+    <Bairro>CNPJ 01.518.211/0001-83</Bairro>
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>0800-728-2001</FoneCom>
+    <FoneCel>3427-0002</FoneCel>
+    <FoneRes />
+    <PaginaWeb>www.goldencross.com.br</PaginaWeb>
+    <EnderElet>eineckmelocorretora@gmail.com</EnderElet>
+    <Contato>Juliana: 4009-9028</Contato>
+    <Atividade />
+    <Obs>Sílvio Augusto 9983-9373  Código: 96.016</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GRIAULE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>248-0081</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>griaule.com.br</EnderElet>
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JOSE HAMILTON</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3223-9479</FoneCom>
+    <FoneCel>8454-6547</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>jhalencar@uol.com.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. ANIELE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3443-5221</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>TRON INFORMATICA</Nome>
+    <Ender>SCS QDA. 01 BLOCO G SALA 208</Ender>
+    <Bairro>edgar@tron.com.br</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep>70309000</Cep>
+    <FoneCom>3322-1227</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>C:\Sistemas Tron\Gil Pereira\</PaginaWeb>
+    <EnderElet>E:\Sistemas Tron\Emplavi\</EnderElet>
+    <Contato>Edgar 9176-9915</Contato>
+    <Atividade>Vlr Mensal R$ 657,24</Atividade>
+    <Obs>Unid. 02 - Cli. 04036 E / Cod. 04423 G  - SENHA  16706758 e / 17416064 g</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GUSTAVO (CATOLICA)</Nome>
+    <Ender>MATRIC. 2002015694</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>385-9358</FoneCom>
+    <FoneCel />
+    <FoneRes>356-0447</FoneRes>
+    <PaginaWeb>356-0447</PaginaWeb>
+    <EnderElet>brguskun@ambev.com.br</EnderElet>
+    <Contato />
+    <Atividade>GUSTAVOKUNZ@IG.COM.BR</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GVT</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800-052-0025</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Junior 9240-3489 / 8595-5666</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>HELENA ATROCH</Nome>
+    <Ender>RUA TAVARES BASTOS, 697 AP. 181</Ender>
+    <Bairro>VILA POMPEIA</Bairro>
+    <Cid>SAO PAULO</Cid>
+    <Uf>SP</Uf>
+    <Cep>05012020</Cep>
+    <FoneCom />
+    <FoneCel>(11) 9153-0377</FoneCel>
+    <FoneRes>(11) 3864-9173</FoneRes>
+    <PaginaWeb>Bco.356 Ag.0681 Cta.1971997-1  CPF 670.632.504-00</PaginaWeb>
+    <EnderElet>hatroch@terra.com.br</EnderElet>
+    <Contato>RG 1.693.236 SSP/PE</Contato>
+    <Atividade>MEDICA  CRM/SP 71.811</Atividade>
+    <Obs>Fax do Consultório: 3673-6664 Cartão nº 5493-2902-3277-4315 vc. 07/2008 cod.274</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>HEPTA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3328-7007</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>CONTATO</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>HOSPITAL BRASILIA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3248-2910</FoneCom>
+    <FoneCel>3248-9066</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>INFORMACOES 248-4200</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>HOSPITAL SAO LUCAS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3445-5050</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>CONTATO</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>INFORMATICA - RV INFORMATICA</Nome>
+    <Ender>313 NORTE BL D SL 46</Ender>
+    <Bairro>ASA NORTE</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3447-3371</FoneCom>
+    <FoneCel>9994-4772</FoneCel>
+    <FoneRes />
+    <PaginaWeb>www.rvi.com.br</PaginaWeb>
+    <EnderElet />
+    <Contato>NETO OU VIVIANE</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>INPI PATENTES</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>224-1114</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>INTELIG - TELECOM BANDA LARGA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800 888 8023</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>IRAWILD ALMADA JUNIOR</Nome>
+    <Ender>RUA 28 SUL LT.09 BL. A Ap.103</Ender>
+    <Bairro>AGUAS CLARAS</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>71929000</Cep>
+    <FoneCom />
+    <FoneCel>9223-2205</FoneCel>
+    <FoneRes>3222-2588</FoneRes>
+    <PaginaWeb />
+    <EnderElet>junior@emplavi.com.br</EnderElet>
+    <Contato>15°50'26.92"S 48°2'4.66"O</Contato>
+    <Atividade>ANALISTA SISTEMAS</Atividade>
+    <Obs>Residencial Encontro das Águas - Edf. Tocantins</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JACARE EDUARDO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3346-6229</FoneCom>
+    <FoneCel>9215-7668</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>TECNICO EM SOM</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JANE (TIA)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>(81) 3338-7940</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JOAO BARBOSA - CATOLICA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3448-1986</FoneCom>
+    <FoneCel>9201-7170</FoneCel>
+    <FoneRes>357-4919</FoneRes>
+    <PaginaWeb>357-4919</PaginaWeb>
+    <EnderElet>jfrancabsi@gmail.com</EnderElet>
+    <Contato>CONTATO</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JORAN</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom />
+    <FoneCel>988-5382</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JORGE (AMIGO DA JULI)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes>568-6931</FoneRes>
+    <PaginaWeb>568-6931</PaginaWeb>
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SLAVIEIRO FORD</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>2193-4412</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JORGE ATROCK</Nome>
+    <Ender>R. Valdemar Nery Carneiro Monteiro, 475, ap. 503</Ender>
+    <Bairro>setubal</Bairro>
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>51030140</Cep>
+    <FoneCom>(81) 3232-8615</FoneCom>
+    <FoneCel>(81) 9491-4753</FoneCel>
+    <FoneRes>(81) 3341-1833</FoneRes>
+    <PaginaWeb />
+    <EnderElet>jatrockjr@hotmail.com</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs>BCO.001 AG.3242-5  CTA.3184-4  CPF. 295.509.984-87</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JORGE CARVALHO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom />
+    <FoneCel>9982-3188</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LATA VELHA - PROGRAMA DO HULK</Nome>
+    <Ender>CAIXA POSTAL 70630</Ender>
+    <Bairro />
+    <Cid />
+    <Uf>RJ</Uf>
+    <Cep>22741970</Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LEO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>9666-4359</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LEONARDO NASCIMENTO FRANCA (SUPORTE)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>8447-3037</FoneCel>
+    <FoneRes>3475-9071</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>SUPORTE NA DIGITAÇÃO</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LIVRARIA DA RODOVIARIA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3224-9808</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LIVRARIA SARAIVA</Nome>
+    <Ender>SCS QD. 1 BL. H EDF.MORRO VERMELHO TERREO</Ender>
+    <Bairro>SETOR COMERCIAL</Bairro>
+    <Cid>BRASIL</Cid>
+    <Uf>DF</Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3323-4115</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>HP do Brasil</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800 701 6671</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>www.hp.com.br</PaginaWeb>
+    <EnderElet />
+    <Contato />
+    <Atividade>Indústria de Computadores</Atividade>
+    <Obs>para ver revendas: www.hp.com.br/comprar</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>UCB</Nome>
+    <Ender>SACTUS COBRANCA 2106-2524</Ender>
+    <Bairro>SAA 3356-9121 Elias/Geviel</Bairro>
+    <Cid>DEPTO. MATEMATICA 3356-9192</Cid>
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3356-9025 ca</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>CESMI 3356-9685</PaginaWeb>
+    <EnderElet>financeiro 3356-9116 / 9058</EnderElet>
+    <Contato>BIBLIOTECA 3356-9024</Contato>
+    <Atividade>Universidade</Atividade>
+    <Obs>Biblioteca 3356-9024</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>VALTER (CANTINA ROGACIONISTA)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom />
+    <FoneCel>9982-8884</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>VICTOR (SIST. SEGURANCA)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>8401-6348</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>VIGILANCIA SANITARIA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>345-8426</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>VIVO TELEFONIA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>1404</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>W IMOVEIS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3323-2246</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>MARCELO OU DANILO</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>WESLEY BATISTA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom />
+    <FoneCel>9954-8499</FoneCel>
+    <FoneRes>623-1374</FoneRes>
+    <PaginaWeb>623-1374</PaginaWeb>
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>WIMOVEIS PORTAL WEB</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3323-2246</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>sac@wimoveis.com.br</EnderElet>
+    <Contato>Augusto / Rodrigo</Contato>
+    <Atividade />
+    <Obs>Logim técnico: ASA127</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>C&amp;A</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>0800-7010128</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>RICARDO MILANO</Nome>
+    <Ender>AV. DA INTEGRACAO, 445 AP. 01</Ender>
+    <Bairro>SAO JOSE</Bairro>
+    <Cid>PETROLINA</Cid>
+    <Uf>PE</Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>87 3866-6455</FoneCom>
+    <FoneCel>(87) 9998-5090</FoneCel>
+    <FoneRes />
+    <PaginaWeb>(87) 3873-2017  1515</PaginaWeb>
+    <EnderElet>ricardo.oliveira@sefaz.pe.gov.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CALHAO IMOVEIS</Nome>
+    <Ender>SRTV SUL Q.701 BL A SL 413</Ender>
+    <Bairro>SETOR DE RADIO E TV SUL</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3226-7200</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>ROBSON (SEGUROS)  9989-9314  -  234-1401</PaginaWeb>
+    <EnderElet>CALHAO@SOLAR.COM.BR</EnderElet>
+    <Contato>CALHAU 9984-5486</Contato>
+    <Atividade>Imobiliária</Atividade>
+    <Obs>Jussara 3399-9797 9902-9113</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>RODRIGO CARPES</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>8131-9574</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>RODRIGO RHODEN</Nome>
+    <Ender />
+    <Bairro>SUDOESTE</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep>70000000</Cep>
+    <FoneCom />
+    <FoneCel>9994-8334</FoneCel>
+    <FoneRes>3034-8115</FoneRes>
+    <PaginaWeb />
+    <EnderElet>rodrigo.rhoden@itsinfo.com.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs>BCO.001 AG.1004-9 CTA.29695-3 CPF.602.752.351-49</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>RONALDO OLIVEIRA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ROSANE PEREIRA (ESPOSA DR. GIL)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>244-8518</FoneCom>
+    <FoneCel>9981-6890</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MULTIBOVINOS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(62) 3541-0753</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Fabiana/Fernando/Diogo</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Registro (Domíneos)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(11) 5509-3500</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>LOGIN: ERL82  PASS: 736900 (FAPESP)</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>RUA DOS MUSICOS</Nome>
+    <Ender>RUA TEODORO SAMPAIO, 777</Ender>
+    <Bairro>PINHEIROS</Bairro>
+    <Cid>SAO PAULO</Cid>
+    <Uf>SP</Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3036-3131</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>RV INFORMATICA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3447-5258</FoneCom>
+    <FoneCel>9994-4772</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>NETO</Contato>
+    <Atividade />
+    <Obs>          BB AG.3477-0 CTA.12.363-3 VIVIANE MAGALHAES DE OLIVEIRA CPF: 819.457.791-87                                                                                                                   </Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CARLA ATROCK</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>0</FoneCom>
+    <FoneCel>9555-1575</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CARLA GOLCALVES ATROCK</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>323-8922</FoneCom>
+    <FoneCel>9905-2042</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CARTUCHOS RECONDICIONADOS</Nome>
+    <Ender>Q. 515 SUL BL C ENT 42 SL 202</Ender>
+    <Bairro>ASA SUL</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3245-2500</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>re9@onix.com.br</EnderElet>
+    <Contato />
+    <Atividade>CARTUCHOS RECARREGADOS</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CATHO RH</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>322-5352</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>catho_brasilia@catho.com.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CINEMAS PARK SHOPPING</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>223-1617</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CLAUDIO LIZIAS - TIO DO HENRIQUE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>443-4144</FoneCom>
+    <FoneCel>9281-5150</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>CLAUDIO@PROVE.COM.BR</EnderElet>
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>UNICESP</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3035-9500</FoneCom>
+    <FoneCel>3035-9557</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Cleo 3035-9502</Contato>
+    <Atividade />
+    <Obs>CNPJ 01.194.019/0001-89</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MONTREALTOUR</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800-61-4422</FoneCom>
+    <FoneCel>61 2105-4077</FoneCel>
+    <FoneRes />
+    <PaginaWeb>www.montrealtour.com.br</PaginaWeb>
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JULIO - OBRA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3341-1925</FoneCom>
+    <FoneCel />
+    <FoneRes>9607-9110</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LUDMILA (CATÓLICA)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>9247-5712</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>milla_andrade@yahoo.com.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>AGÊNCIA DE EMPREGOS - IEL</Nome>
+    <Ender>SCN QUADRA 1 BLOCO "E" EDF.CENTRAL PARK</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3327-2060</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>DOCUMENTOS NECESSÁRIOS: DECLA.FACU; RG; CPF.</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>RÉGIS (CATÓLICA)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>8424-7912</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>regismazetti@yahoo.com.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>AGÊNCIA DE EMPREGOS - CIEE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3218-8822</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>DOCUMENTOS NECESSÁRIOS: DECLA.FACU; RG; CPF.</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BANCO HSBC</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(62) 3257-4155</FoneCom>
+    <FoneCel>(61) 3208-2707</FoneCel>
+    <FoneRes />
+    <PaginaWeb>www.hsbc.com.br/dl</PaginaWeb>
+    <EnderElet>wanessa.n.rocha@hsbc.com.br</EnderElet>
+    <Contato>Wanessa Rocha (Cobrança) / cri</Contato>
+    <Atividade>4004-3914 p/saldo carro</Atividade>
+    <Obs>Geovani (Cel) 9654-1545  ( Ag. 00417 Cta. 22402-23 )  - 0800-414004 Geso - 0800-7013900 (Suporte)</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MAX INFORMÁTICA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3218-4300</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>wilson@maxsoftweb.com.br</EnderElet>
+    <Contato>Wilson / Norton / Kelsi</Contato>
+    <Atividade>Software House</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ANECÍLIA (JORAM)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes>3234-7744</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Ecologic Park (64) 3453--844</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ADVOGADO DR. DANIEL</Nome>
+    <Ender />
+    <Bairro>DR. JURIO</Bairro>
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3224-5151</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Wizard</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3381-9896</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>Curso de Inglês</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Cartório Brasília</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3351-8787</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Eric Margarido</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Cartório 7º Tabelionato - Fábio Lourenço</Nome>
+    <Ender>Rua do Imperador Pedro II nº 362</Ender>
+    <Bairro>Santo Antônio</Bairro>
+    <Cid>Recife</Cid>
+    <Uf>PE</Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(81) 3224-3000</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>CPF 832.515.104-87</Atividade>
+    <Obs>Julia Pinto de Figeiredo Goes: Bco. 409 - Ag.0351 - Cta. 116.519-7 -</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>AUTO ESCOLA PLANALTO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3381-0401</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>AUTO-ESCOLA MOTORISTA</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GISELIA MACHADO BELARMINO</Nome>
+    <Ender>RUA DR. GASTÃO DA SILVEIRA Nº 921</Ender>
+    <Bairro>IPUTINGA</Bairro>
+    <Cid>RECIFE</Cid>
+    <Uf>PE</Uf>
+    <Cep>50731050</Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes>(81) 3271-0955</FoneRes>
+    <PaginaWeb />
+    <EnderElet>issaclara@hotmail.com</EnderElet>
+    <Contato />
+    <Atividade>BIBLIOTECÁRIA</Atividade>
+    <Obs>RG. 987329 SSP/PE - CPF 126.427.974-49</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CONGAL</Nome>
+    <Ender />
+    <Bairro />
+    <Cid>RECIFE</Cid>
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3227-3321</FoneCom>
+    <FoneCel>3227-3323</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>CONSTRUTORA</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ROBERTO CARNEIRO PEDROSA (Bebeto)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(81) 3269-9080</FoneCom>
+    <FoneCel>(81) 9174-9603</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>Juiz</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Fazenda (Escritório)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3245-6013</FoneCom>
+    <FoneCel>(62) 3473-1791</FoneCel>
+    <FoneRes>(62) 3429-5061</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Paulo Kamilo 9966-0255</Contato>
+    <Atividade>paulokmn@gmail.com</Atividade>
+    <Obs>Programa Bureau (67) 3331-4727  Priscila /  J M Matos Produções (34)</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Regis</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3206-2386</FoneCom>
+    <FoneCel>8424-7912</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>regismazetti@gmail.com</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>TCI Informática</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3349-9999</FoneCom>
+    <FoneCel>8114-3737</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Júnior</Contato>
+    <Atividade>Loja de informática</Atividade>
+    <Obs>Rose</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>NET TV POR ASSINATURA</Nome>
+    <Ender>R$ 104,00 Durante 90 dias</Ender>
+    <Bairro />
+    <Cid>Contrato  01/11/06</Cid>
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800-7210029</FoneCom>
+    <FoneCel>4004-7777</FoneCel>
+    <FoneRes>4004-8844</FoneRes>
+    <PaginaWeb>www.net.tv.br</PaginaWeb>
+    <EnderElet />
+    <Contato>Num.Fone Casa 3381-8577</Contato>
+    <Atividade />
+    <Obs>Assinado em jul/2009 - Plano Total Sine Digital Básico</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ROBERTO SILVEIRA</Nome>
+    <Ender>CLSW 102 BL A LJ 33 SUB-SOLO</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3033-1038</FoneCom>
+    <FoneCel>8162-9995</FoneCel>
+    <FoneRes>8167-1545</FoneRes>
+    <PaginaWeb>Edson</PaginaWeb>
+    <EnderElet>recontdf@gmail.com</EnderElet>
+    <Contato>9130-2197</Contato>
+    <Atividade>Contador</Atividade>
+    <Obs>EM FRENTE AO GIRAFAS</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BANCO DO NORDESTE</Nome>
+    <Ender>SCSQ 2 Bloco "C" LT 115</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3321-7422</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Rua do Bradesco</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>QZar Loja de Informática</Nome>
+    <Ender>Feira do Paraguai</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3037-3859</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GERTUDES MACHADO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes>(81) 3274-2203</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>McAfee Anti-Vírus</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3322-9001</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Cícero 8134-9825</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BANCO UNIBANCO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>4004-1565</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Meire 9967-7150</Contato>
+    <Atividade />
+    <Obs>Nilmara Duarte 9988-1144 (nilmara.duarte@unibanco.com.br) - validar layout (11) 3011-1093</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BEMATECH</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800-644 2362</FoneCom>
+    <FoneCel>0800-644 7277</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>suporte@bematech.com.br</EnderElet>
+    <Contato>LEANDRO CAMPOS</Contato>
+    <Atividade />
+    <Obs>Seven PDV (11) 3549-6700  -  Software Express (11) 3170-5353</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ITS CONSULTORIA EM TI</Nome>
+    <Ender>Nelson - GEDE 7813-8864/3032-4565</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3035-4565</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>/var/log/squid3</PaginaWeb>
+    <EnderElet>valmir.filho@itsinfo.com.br</EnderElet>
+    <Contato>Pedro 8184-4285</Contato>
+    <Atividade>Valmir 8134-9747</Atividade>
+    <Obs>pedro.pontes@itsinfo.com.br</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ANDRÉ NUNES</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>8149-7383</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ORYON</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(19)  3242-7171</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Oscar 7850-6570</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SARA - CASA GUARA II</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>8475-6895</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>A FORMULA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3326-4044</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Florisvaldo</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3378-4321</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>Empreiteiro</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JUNTA ESPECIAL DE SAÚDE - JES</Nome>
+    <Ender>Setor Militar Aeroporto</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3364-7771</FoneCom>
+    <FoneCel>3365-1990 Fax</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>American Express</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>4004-2639</FoneCom>
+    <FoneCel>0800 728-1010</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>UNICEUB</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3340-1600</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>3340-1678 - Tesouraria</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JULIANA MACHADO ATROCK</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>8118-6590</FoneCel>
+    <FoneRes />
+    <PaginaWeb>HAB. 04217041572 "B" EXP.26/10/07</PaginaWeb>
+    <EnderElet>TIT. ZONA SEÇÃO</EnderElet>
+    <Contato>BCO.001 AG.2912-2 CTA.28342-8</Contato>
+    <Atividade />
+    <Obs>CPF. 031.932.511-35    RG. 2.597.342 - EXP. 22/10/2003</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>VB.Net - Eurípedes</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3346-0288</FoneCom>
+    <FoneCel>8162-4773</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>euripedessobrinho@gmail.com</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs>Especialista em VB.Net Ramal 206</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>UNIEURO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3445-5771</FoneCom>
+    <FoneCel>3445-5786</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>POS GRADUAÇÃO</Atividade>
+    <Obs>MBI - GOVERNANÇA EM TI</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Cartório 4º Registro Imóveis (caxangá)</Nome>
+    <Ender>Av. Caxangá</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(81) 3227-2083</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>TICKET RESTAURANTE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Nº DO CARTÃO 6033 4211 9292 9004</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SBS Informática</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3326-2167</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Vânia 9969-8834</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CA - Computer Associates</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(11) 5503-6222</FoneCom>
+    <FoneCel>(11) 5503-6009</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Gláucia</Contato>
+    <Atividade />
+    <Obs>CPD Informática 3447-5446 - André - andre@cpd.com.br</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>STRATTUS INFORMÁTICA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3427-2565</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CPD INFORMÁTICA</Nome>
+    <Ender>W3 NORTE 509 BL D SALA 102 - ED. Isis</Ender>
+    <Bairro>Ao lado da Caixa Economica</Bairro>
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3447-5446</FoneCom>
+    <FoneCel>9618-0119</FoneCel>
+    <FoneRes />
+    <PaginaWeb>Ao lado da Caixa Econômica</PaginaWeb>
+    <EnderElet>andre@cpd.com.br</EnderElet>
+    <Contato>André (Técnico)</Contato>
+    <Atividade>fabiola@cpd.com.br</Atividade>
+    <Obs>Fabíola 2/6/2009 PERTO DA CXA ECONOMICA - Marcos</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>TREND MICRO - Anti-Vírus</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>11 4063-7639</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Senha: vTGwaoGa</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ALPHA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3345-9797</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>alphabrasilia@alphabrasilia.com.br</EnderElet>
+    <Contato>Marilene 9772</Contato>
+    <Atividade />
+    <Obs>ERIVALDO 9755</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GERALDO VIEIRA IMOVEIS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(81) 3445-8875</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>GERALDO 99760906</Contato>
+    <Atividade>IMOBILIÁRIA</Atividade>
+    <Obs>BCO.104 AG.2348 CTA.889-6 OP.003</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SAMANTHA IMOVEIS</Nome>
+    <Ender>SEPN Q. 504 BL C LJ. 07 ED. MARIANA</Ender>
+    <Bairro>ASA NORTE</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep>70730535</Cep>
+    <FoneCom>3224-2424</FoneCom>
+    <FoneCel>3326-3486 FAX</FoneCel>
+    <FoneRes>3326-3486</FoneRes>
+    <PaginaWeb>Veridiano 9983-4659</PaginaWeb>
+    <EnderElet>Gdeon 9615-6523</EnderElet>
+    <Contato>CONTATO:  REGINA</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs>Pass.Internet Boleto: 2201   www.samanthaimoveis.com.br</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SANDRA (CAIXA)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3245-7345</FoneCom>
+    <FoneCel>99516682</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SECONCI</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>363-1838</FoneCom>
+    <FoneCel />
+    <FoneRes>363-8906</FoneRes>
+    <PaginaWeb>363-8906</PaginaWeb>
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SERGIO AMARAL</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3361-1416</FoneCom>
+    <FoneCel>9988-0674</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>samaral@prove.com.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SERGIO WILLIANS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom />
+    <FoneCel>8116-1310</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SIGTRON IMPRESSORAS FISCAIS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800-772 5060</FoneCom>
+    <FoneCel />
+    <FoneRes>(11) 6914-7227</FoneRes>
+    <PaginaWeb />
+    <EnderElet>Tecnicos 6167-4000</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SINARA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>383-2660</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SNN INFORMATICA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>274-0980</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SOBREVE VEICULOS</Nome>
+    <Ender />
+    <Bairro>CIDADE DO AUTOMOVEL</Bairro>
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>363-8059</FoneCom>
+    <FoneCel>9979-6163</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>JAIME/CARLINHOS</Contato>
+    <Atividade>LUIZ 9617-1949 (DESPACHANTE)</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>STAFF PUBLICIDADE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>328-0802</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>scomunica72@hotmail.com</EnderElet>
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>TBA INFORMATICA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3426-3300</FoneCom>
+    <FoneCel>3426-3207</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>GERENTE: CLEBER  GOMES EM 08/0</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>TELEGRAMA FONADO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800-5700100</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>TIM</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800-741-4141</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>1587391</PaginaWeb>
+    <EnderElet>ana paula  1705160</EnderElet>
+    <Contato>ULT.CONTATO: PAULA ROCHA</Contato>
+    <Atividade />
+    <Obs>ATEND.NR.</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ULISSES</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>411-6769</FoneCom>
+    <FoneCel>922-1109</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ULTAQUIO MARIANO CARNEIRO</Nome>
+    <Ender>QUADRA 10 BL J CASA 26</Ender>
+    <Bairro>CRUZEIRO NOVO</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep>70000000</Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes>233-4412</FoneRes>
+    <PaginaWeb>233-4412</PaginaWeb>
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>UNICEF</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>08006018407</FoneCom>
+    <FoneCel />
+    <FoneRes>3408293</FoneRes>
+    <PaginaWeb>3408293</PaginaWeb>
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>VAGON ENGENHARIA</Nome>
+    <Ender />
+    <Bairro>MAURA 310-5423 BCO. DO BRASIL</Bairro>
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3233-1685</FoneCom>
+    <FoneCel>3234-0825</FoneCel>
+    <FoneRes />
+    <PaginaWeb>Maura Cel. 8185-0072</PaginaWeb>
+    <EnderElet>vagoneng@terra.com.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>VALERIA MACHADO ATROCK</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>8118-0309 Tim</FoneCom>
+    <FoneCel>8119-8664 BrT</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Sabin User: P77161 Pss: PHFEG</Contato>
+    <Atividade />
+    <Obs>RG. 2.884.715 SSP/PE  CPF. 432.174.274-91</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LUIZ CLAUDIO MILANO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(81) 3242-4997</FoneCom>
+    <FoneCel>(81) 9102-5370</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>NADILZA ATROCH</Nome>
+    <Ender>RUA RAUL POMPEIA, 199, AP.22</Ender>
+    <Bairro>VILA POMPEIA</Bairro>
+    <Cid>SAO PAULO</Cid>
+    <Uf>SP</Uf>
+    <Cep>05025010</Cep>
+    <FoneCom />
+    <FoneCel>(11) 9981-5932</FoneCel>
+    <FoneRes>(11) 3675-8761</FoneRes>
+    <PaginaWeb />
+    <EnderElet>natroch@ig.com.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs>RG 1.133.163 SSP/PE CPF: 801.374.234-20</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ORTORAL</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3346-9696 Torre</FoneCom>
+    <FoneCel>3342-3001 Sud</FoneCel>
+    <FoneRes />
+    <PaginaWeb>cida.bsb70@bol.com.br</PaginaWeb>
+    <EnderElet>serie FS3435: 00017885</EnderElet>
+    <Contato>EUDETE-Torre II / Fibiola-Sud</Contato>
+    <Atividade>Clínica de Ortodondia</Atividade>
+    <Obs>Maqplan: 3273-6333   -   Visa: 3039-8903 clinicalustosa@clinicalustosa.com.br</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PANAMERICANO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>4003-0101</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PASCOAL</Nome>
+    <Ender>CARLOS PASCOAL DOS SANTOS</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>381-8968</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>cpf: 096.674.901-49</EnderElet>
+    <Contato>BCO.104  AG.0643  TP.001  CTA.</Contato>
+    <Atividade>PROFESSOR DE MUSICA</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PAULO MILANO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>(81) 3232-7768</FoneCom>
+    <FoneCel>(81) 8717-1038</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PAULO MIRANDA IMOVEIS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(81) 3465-3666</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>CORRETOR CARLOS ALBERTO 9973-4</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PAULO SILVA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3340-0027</FoneCom>
+    <FoneCel>9601-1969</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>CONTATO</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PC WORLD - REVISTA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(11) 3049-2000</FoneCom>
+    <FoneCel />
+    <FoneRes>0800-701-7599</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Cod.Assinante: 2670584</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PINTOR</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>NILTON 9664-9666</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PIOPLAST</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3233-2958</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Júlio / Tiago</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PLOTSCAN - TRABALHOS GRÁFICOS</Nome>
+    <Ender>CLS 213 BL C SALA 5</Ender>
+    <Bairro>ASA SUL</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3345-2276</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PORTO SEGURO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>8117-7870</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>SAMUEL</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>POSTO ANOES</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3245-6622</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Juliano ou Ivan</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>POSTO SIA.3</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3361-6080</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PROCON</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>223-0558</FoneCom>
+    <FoneCel>151</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>CONTATO</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PROCURSOS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3346-5342</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>CURSO PARA CONCURSOS</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PROSOFT</Nome>
+    <Ender>SETOR HOTELEIRO NORTE BL "I" LJ. 2 SUBSOLO</Ender>
+    <Bairro>ANEXO HOTEL GARVEY</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3312-1900</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>www.prosoft.com.br</PaginaWeb>
+    <EnderElet>suporte@prosoft.com.br</EnderElet>
+    <Contato>COD. EMP. 17.463</Contato>
+    <Atividade>COD.GIL  19.778</Atividade>
+    <Obs>Alexandre ( alexandre@prosoftbsb.com.br )</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PROVE</Nome>
+    <Ender>328-7272 - TELEFONE PARA A CONEXAO DIAL-UP</Ender>
+    <Bairro />
+    <Cid>NARDELE 914-0491</Cid>
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>328-4345</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>suporte@prove.com.br</EnderElet>
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PUBLIO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3361-0015</FoneCom>
+    <FoneCel>9981-5401</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>publioimoveis@terra.com.br</EnderElet>
+    <Contato>PUBLIO &amp; GRACE</Contato>
+    <Atividade>ATIVIDADE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>QUIMIPLAST - SAAN</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3202-1166</FoneCom>
+    <FoneCel>3361-6630 Atend</FoneCel>
+    <FoneRes />
+    <PaginaWeb>quimiplastjk@terra.com.br</PaginaWeb>
+    <EnderElet>quimiplastdf@terra.com.br</EnderElet>
+    <Contato>CONTADOR: 3223-6779 Rosângela</Contato>
+    <Atividade>Delfina/Evandro</Atividade>
+    <Obs>Apoio Liderança Assossoria Contábil S/C Ltda Marlei 9974-8436 - Diógenes 9961-1681</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>RAIANA DURAES</Nome>
+    <Ender>QI 22 BL P AP 204</Ender>
+    <Bairro>GUARA I</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep>71015168</Cep>
+    <FoneCom />
+    <FoneCel>8111-3860</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>REAL EXPRESSO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>0800-617325</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>RICARDO CORREA BARBUTE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(11) 8245-9501</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Rg. 8.796.498 SSP/SP  CPF 076.238.438-77  CRM 66103</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>RM SISTEMAS</Nome>
+    <Ender>SCLN 311 BL A SL 102</Ender>
+    <Bairro>Stanley</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>2191-9000</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>Daniele Oliveira 8492-6539</PaginaWeb>
+    <EnderElet>carol.franchini@rmbrasilia.com</EnderElet>
+    <Contato>Carol Franchini (Comercial)</Contato>
+    <Atividade>Laércio 8186-0353</Atividade>
+    <Obs>usuário: josearruda@emplavi.com.br - senha: 9558 - codigo: 01</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ROBSON</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3342-1744</FoneCom>
+    <FoneCel>8443-2130</FoneCel>
+    <FoneRes>3306-2651</FoneRes>
+    <PaginaWeb />
+    <EnderElet>robson.lerbach@gmail.com</EnderElet>
+    <Contato />
+    <Atividade>ANALISTA SISTEMAS</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MICROSOFT BRASIL</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800-888-4081</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>SOFTWARE HOUSE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LIVRARIA SHALON</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3381-5255</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LIVRARIA SICILIANO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3362-8823</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LIVRARIA TECNICA</Nome>
+    <Ender>RUA DAS FARMACIAS</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3321-4338</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BLOQUEIO DE RAMAL</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>BLOQUEAR: *72#</Contato>
+    <Atividade>DESBLOQUEAR: #72*SENHA#</Atividade>
+    <Obs>CADASTRAR:  #*72*0000*SENHA4DIGITOS#</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LIVRARIA UNIAO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3381-6300</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>CLEA</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>OBCURSOS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3031-7777</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LORENO INFORMATICA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>346-5001</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LUCIANA REIGOTA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom />
+    <FoneCel>9977-1801</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LUIZ CARLOS (CATOLICA)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>351-</FoneCom>
+    <FoneCel>8401-7575</FoneCel>
+    <FoneRes>351-5888</FoneRes>
+    <PaginaWeb />
+    <EnderElet>mendestt@pop.com.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LUXOR OTICA</Nome>
+    <Ender>SHLS 716 CENTRO CLINICO SUL LOJA 308 PRACA</Ender>
+    <Bairro>ASA SUL</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep>7000000 </Cep>
+    <FoneCom>3346-7090</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>GERALDA</Contato>
+    <Atividade>OTICA</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MAQPLAN - DARUMA / BEMATECH</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>(61) 3273-6333</FoneCom>
+    <FoneCel>0800 770 3320</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>41 3361 6005 / 6076 / 6787</Contato>
+    <Atividade>3312-8415 - Receite Federal (S</Atividade>
+    <Obs>ASSIST.TÉC.3036-6333 (RAFAEL)</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MARCIO (EMPLAVI)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom />
+    <FoneCel>981-2199</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MARCO ANTONIO CARVALHO</Nome>
+    <Ender>SIQUEIRA SANTOS</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>8165-5631</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>Banco 001 Ag.3477-0 Cta. 18026-2</PaginaWeb>
+    <EnderElet>marco.spaider@gmail.com</EnderElet>
+    <Contato />
+    <Atividade>marco.spaider@msn.com</Atividade>
+    <Obs>3346-0288</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MARCUS RABELO XAVIER</Nome>
+    <Ender>JUNTA COMERCIAL</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>329-8861</FoneCom>
+    <FoneCel />
+    <FoneRes>382-7312</FoneRes>
+    <PaginaWeb>382-7312</PaginaWeb>
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MARIA AMELIA - COND.QI 22 BLOCO P</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>8116-2767</FoneCel>
+    <FoneRes>382-6856</FoneRes>
+    <PaginaWeb>382-6856</PaginaWeb>
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MARIO CABELEIREIROS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3381-5173</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MARLEY (TIO DITO)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>(81) 3241-9545</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MATEC - POWERTEC</Nome>
+    <Ender>CELULAR - 8418-5698 Davi / 8407-0766 Alceu</Ender>
+    <Bairro>Zenit (ABVT) 3321-4001</Bairro>
+    <Cid>TECNICA@POWERTECH.COM.BR</Cid>
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>3218-4444</FoneCom>
+    <FoneCel>3218-4413</FoneCel>
+    <FoneRes>3218-4433 FAX</FoneRes>
+    <PaginaWeb>Damovo 3316-9125/9121 Vilma</PaginaWeb>
+    <EnderElet>Sigame Liga: *21*ramal#    Desliga #21#</EnderElet>
+    <Contato>ROGERIO 8119-4979 / 8403-2177</Contato>
+    <Atividade>BP250 Ericsson - MD110</Atividade>
+    <Obs>Manoel 8601-7707 - Hilton Rocha 8401-6750 - Nelson 8119-3150 - Agenor (zenit) 9623-3018 - Milton 4419 Aparelhos</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MIRO - ANTARES</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70000000</Cep>
+    <FoneCom>242-2500</FoneCom>
+    <FoneCel>924-0455</FoneCel>
+    <FoneRes>381-5491</FoneRes>
+    <PaginaWeb>381-5491</PaginaWeb>
+    <EnderElet />
+    <Contato>Contato</Contato>
+    <Atividade>Atividade</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MM INFORMATICA</Nome>
+    <Ender>PAULO (62) 8111-9118 - CASA: 285-3602</Ender>
+    <Bairro>PAULO@MM.COM.BR</Bairro>
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(62) 3285-4469</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>www.mminformatica.com.br</PaginaWeb>
+    <EnderElet>mmi@cultura.com.br</EnderElet>
+    <Contato>OSVALDO: 9972-7271</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MSDN - CODIGO: DEVO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>senha:  9qe3rf3r</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>MARIO DESTRO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3963-7799</FoneCom>
+    <FoneCel>9970-5019</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>CONTADOR</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. ROGÉRIO NÓBREGA</Nome>
+    <Ender>Office Center bl. D Sl.306</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3346-4544</FoneCom>
+    <FoneCel>3346-4966</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>Oftalmologista</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BMF - Bolsa de Valores</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(31) 3071-6569</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Sérgio Felipe</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SKY TV POR ASSINATURA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>4004-1001</FoneCom>
+    <FoneCel>3349-6666</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>106 11 Opção 9</Contato>
+    <Atividade />
+    <Obs>Assinatura cancelada em: 4/8/2009 Protocolo 778.071.017</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. DERMACLINIC</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3443-5632</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>DR.WADAD</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>THAIS IMÓVEIS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>jfimoveis7@hotmail.com</EnderElet>
+    <Contato>João Fernandes / Inácio</Contato>
+    <Atividade>Imobiliária</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>VALE TRANSPORTE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>9637-2738</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>SALIN</Contato>
+    <Atividade>COMPRA DE VALE TRANSPORTE</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PORTAO ELETRÔNICO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>HÉLIO - ALARME</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>8448-1158</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GOOGLE BRASIL INTERNET</Nome>
+    <Ender>AV. BRIGADEIRO FARIA LIMA,3900</Ender>
+    <Bairro>ITAIM</Bairro>
+    <Cid>SAO PAULO</Cid>
+    <Uf>SP</Uf>
+    <Cep>04538133</Cep>
+    <FoneCom>(11) 3797-1000</FoneCom>
+    <FoneCel>(11) 3797-1001</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>CFXIMENES@GOOGLE.COM</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PILOTO DR. GIL - VINÍCIUS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>9247-9667</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Angar da BR - Petrobras</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PEDRO (ITS - POLITEC)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>phspontes@gmail.com</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>VÂNIA MIRANDA</Nome>
+    <Ender>SHCGN NORTE CLR 711 BLOCO G LJ 39</Ender>
+    <Bairro>ASA NORTE</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3340-6660</FoneCom>
+    <FoneCel>9969-8834</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>vania.miranda@microship.com.br</EnderElet>
+    <Contato />
+    <Atividade>Loja de Informática</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ROSSY PORTÕES AUTOMÁTICOS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3567-7998</FoneCom>
+    <FoneCel>9267-2523</FoneCel>
+    <FoneRes>9231-2575</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>ERNANI</Contato>
+    <Atividade />
+    <Obs>EDGAR GONÇALVES DA CUNHA - AG.054 - CTA 603605-8</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CIR - CENTRO HOSPITALAR DE REABILITAÇÃO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3365-1000</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>Leonardo 9318-9454</PaginaWeb>
+    <EnderElet>contato@cir.com.br</EnderElet>
+    <Contato>Douglas 8116-3667 - Cristiane</Contato>
+    <Atividade>Anderson 9177-0964</Atividade>
+    <Obs>Comprou o cobra com personalização e sem manut. ver. 2-019</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>EX SOLUÇÕES LTDA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3365-3666</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>Alexandre 8485-8118</PaginaWeb>
+    <EnderElet>rodrigo@exdental.com.br</EnderElet>
+    <Contato>Rodrigo Campos 8164-8320</Contato>
+    <Atividade />
+    <Obs>Comprou Cobra v.2-019 sem manutenção</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JM AUTO CENTRO OFICINA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3245-6434</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PAULO DUTRA - Clínica Odontológica</Nome>
+    <Ender>SHLS 716 CJ. L Torre II Salas 322 e 324</Ender>
+    <Bairro>Asa Sul</Bairro>
+    <Cid>Brasilia</Cid>
+    <Uf>DF</Uf>
+    <Cep>70390700</Cep>
+    <FoneCom>3346-6301</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>clinicapaulodutra@hotmail.com</EnderElet>
+    <Contato>Fernanda Dutra</Contato>
+    <Atividade>DENTISTA</Atividade>
+    <Obs>Cobra 2.0 sem manutenção em: 25/08/2008</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GLOBO.COM</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>4003-8000</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>Cancelada em 01/06/2009 Andressa</PaginaWeb>
+    <EnderElet>protocolo 247188084</EnderElet>
+    <Contato>cancel 11/08/08 com Bruno</Contato>
+    <Atividade>prot. 68153544</Atividade>
+    <Obs>USUÁRIO: eduardoatroch  SENHA  (Q4V916BJ) digitar em minúsculo</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PromocaoSoAlegriaCaixa</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>pass: e05a04m62</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Eduardo Mangini - MD Systems</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>www.mdsystems.com.br</PaginaWeb>
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BlueStar</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3347-9255</FoneCom>
+    <FoneCel>8153-8888</FoneCel>
+    <FoneRes />
+    <PaginaWeb>www.bluestar.inf.br</PaginaWeb>
+    <EnderElet />
+    <Contato>Fernanda Ministério</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>TECH DATA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>www.techdata.com.br</PaginaWeb>
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Usuário: lista7@techdata.com.br  Senha: realidade7</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. ALEXANDRE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3442-8022</FoneCom>
+    <FoneCel>3442-8072</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>OTORRINO</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>EURICO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(81) 3471-1542</FoneCom>
+    <FoneCel>(81) 9657-3155</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>IBM Suporte</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800 728 4831</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CITRIX METAFRAME</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Web Login: eatroch784</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>EMPLAVI</Nome>
+    <Ender>SHS Q. 6 Conj. A Bl. A 7º andar</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep>70322915</Cep>
+    <FoneCom>3345-9405 FAX</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DARUMA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>0800 770 3320</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>desenvolvedores.suporte@daruma.com.br</EnderElet>
+    <Contato>Ágata</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. BRENDA GUASTI A CASTRO</Nome>
+    <Ender>SGAS 910 MIX PARK BL A SL. 101</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3244-6311</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>MEDÍCA GINECOLOGISTA</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GERALDO (OBRAS)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>9986-4374</FoneCom>
+    <FoneCel>8401-6373</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>RICARDO BARBUTI</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(11) 3673-6664</FoneCom>
+    <FoneCel>(11) 8245-9501</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>rbarbuti@terra.com.br</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LinxInsight</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3326-3631</FoneCom>
+    <FoneCel>3326-7670 Fax</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>gildosouzaf@gmail.com</EnderElet>
+    <Contato>Gildo 8404-4655</Contato>
+    <Atividade>Auditor de Informática</Atividade>
+    <Obs>Hudson</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>TOP LINE</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3328-5151</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Geovani</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Almoxarifado Asa Norte - Valdemar</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3447-2469</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Valdemar</Contato>
+    <Atividade />
+    <Obs>Modelo Impressora: HP 6540</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Almoxarifado Águas Claras - Adão</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3435-0901</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Adão</Contato>
+    <Atividade />
+    <Obs>Modelo Impressora: HP 820 CXI</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Almoxarifado SOF Sul - Eduardo</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3234-5938</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Eduardo</Contato>
+    <Atividade />
+    <Obs>Modelo Impressora: HP 870 CXI</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>FAX COMPRAS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3345-9405</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DGL EMPREENDIMENTO LTDA</Nome>
+    <Ender>BL E Sala 309/310</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3323-1200</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>doginalgaldino@gmail.com</EnderElet>
+    <Contato>GALDINO 9983-0978</Contato>
+    <Atividade>Doginal 8151-9178</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ODONTO GROUP</Nome>
+    <Ender>710/910 Bloco D Sala 332</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3421-0000</FoneCom>
+    <FoneCel>2108-0606</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Jaqueline/Aline</Contato>
+    <Atividade />
+    <Obs>Plus Less R$ 29,90 Para a Família fica R$ 98,00 (Deb.Cta.) ou R$ 119,20 (Boleto)</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Lorenzetti</Nome>
+    <Ender>313 Sul Bl. D Lj.35</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3245-5758</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>OTONIEL</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>8197-2498</FoneCom>
+    <FoneCel>9169-6495</FoneCel>
+    <FoneRes>3304-1232</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>Pedreiro</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. GERALDO MAGELA</Nome>
+    <Ender>710/910 SUL EDF. VIA BRASIL SL 411 TORRE A</Ender>
+    <Bairro>ASA SUL</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3244-4666</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>OFTALMOLOGISTA</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JURIDICO (DANIEL &amp; JÚLIO)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3224-5151</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JULIO CEZAR (CAIXA)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>2196-1300</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>JÚLIO CEZAR</Contato>
+    <Atividade>HABITAÇÃO</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BIRA (Caixa)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>9987-0706</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>Bancário</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>JOSE ARRUDA (RH)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>8427-6366</FoneCel>
+    <FoneRes>3597-2896</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BANCO REAL (AYMORE)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>4004-9090</FoneCom>
+    <FoneCel>0800-722-9090</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>TCU - Curso CATHEDRA</Nome>
+    <Ender>SCRN 706/707 BL A ENT. 42</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3274-2401</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>cathedranet.com.br</PaginaWeb>
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. PAULO ROBERTO PEREIRA MAIA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3443-7044</FoneCom>
+    <FoneCel />
+    <FoneRes>3443-1082</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>Urologista</Atividade>
+    <Obs>UROCLINIC</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CYGNI</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>2191-9000</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Cartório Maurício Lemos (505 Sul)</Nome>
+    <Ender>505 Sul</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3244-3335</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GRAFICA TOCANTIS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3233-7188</FoneCom>
+    <FoneCel>9214-1682</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>antonio@sintrex.com.br</EnderElet>
+    <Contato>ANTÔNIO</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. FREDERICO MONTENEGRO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3327-7848</FoneCom>
+    <FoneCel>3327-7594</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>ENDOCRINOLOGISTA</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BANCO BV FINANCEIRA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>9909-8030</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>HELEN</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>GEDEON (Vazamentos)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>9643-0114</FoneCom>
+    <FoneCel>8436-9681</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>QUIMIPLAST - POLO JK</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3395-0030</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>quimiplastjk@terra.com.br</EnderElet>
+    <Contato>EDITH / ELIENE / ALCEU</Contato>
+    <Atividade />
+    <Obs>ALCEU 8112-4990</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>QUIMIPLAST - DITALIA - CAMPO GRANDE/MS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(67) 3387-1100</FoneCom>
+    <FoneCel>3388-3380 FAX</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>anneditaliapvc@hotmail.com</EnderElet>
+    <Contato>ANNE / ALCEU</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>QUIMIPLAST - DITALIA - LONDRINA/PR</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>QUIMIPLAST - DITALIA - UBERLÂNDIA/MG</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>QUIMIPLAST - BETIM/MG</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>QUIMIPLAST - DOURADOS/MS</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. ALESSANDRA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3382-7494</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>DENTISTA</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. DANIEL &amp; JÚLIO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3224-5151</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>daniel.asg@uol.com.br</EnderElet>
+    <Contato>Rose - Ramal 9410</Contato>
+    <Atividade>Advocacia</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SMILES</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>4003-7001</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>CARTÃO: 726969563</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>EV TECNOLOGIA DA INFORMAÇÃO LTDA</Nome>
+    <Ender>QE 28 CJ F CS 15 FUNDOS</Ender>
+    <Bairro>GUARA II</Bairro>
+    <Cid>BRASILIA</Cid>
+    <Uf>DF</Uf>
+    <Cep>71060062</Cep>
+    <FoneCom>3345-9426</FoneCom>
+    <FoneCel>8121-2838</FoneCel>
+    <FoneRes>3381-8577</FoneRes>
+    <PaginaWeb />
+    <EnderElet>evtec.df@gmail.com</EnderElet>
+    <Contato>EDUARDO</Contato>
+    <Atividade>SOFTWARE HOUSE</Atividade>
+    <Obs>CNPJ: 10.591.296/0001-16  - INSCRIÇÃO: 07.515.744/001-16 evt=evt@1010</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CONTABILIDADE - EMPLAVI</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3963-7799</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Nildan ( nildan@terra.com.br )</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>IOB</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>4004-8080</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb>www.iob.online.com.br</PaginaWeb>
+    <EnderElet>www.nfe.fazenda.gov.br</EnderElet>
+    <Contato />
+    <Atividade />
+    <Obs>CÓDIGO: 5538110  SENHA: 7622</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>AQUILES</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3381-1142</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>PAULO KAMILO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LUCIA (CONTAB)</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>9257-3022</FoneCel>
+    <FoneRes>8531-4021</FoneRes>
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CREDVISA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3381-0280</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>REDE - EDMILSON</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3349-4400</FoneCom>
+    <FoneCel>8112-1369</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>MS Metalogia 3552-0567 Maurício</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>INTERCÂMBIO - USA - CEI</Nome>
+    <Ender>SQN 211 NORTE</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3340-2040</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>JOSIE</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BRASILTELECON - ABTV</Nome>
+    <Ender>SCS Q 6 EDF. CARIOCA SL. 302</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3321-4001</FoneCom>
+    <FoneCel>0800-643 0014</FoneCel>
+    <FoneRes />
+    <PaginaWeb>Robério 9998-5004</PaginaWeb>
+    <EnderElet>CONCEICAO@ABVT.COM.BR</EnderElet>
+    <Contato>Conceição 8420-4100 / Benedito</Contato>
+    <Atividade>0800-641 4040</Atividade>
+    <Obs>Circuito: 0718053 conceicao.abvt@hotmail.com</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DIOGO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>8117-7795</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>FITA LTO/DLT/DAT - ServCompo</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>(11) 2942-8982</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>SERVICOMPO</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>UNIMED</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3962-3201</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Larissa 8485-6630</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>LOSANGO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>4004-5757</FoneCom>
+    <FoneCel>0800-727 3172</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DANIEL &amp; JÚLIO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3224-5151</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>daniel.asg@uol.com.br</EnderElet>
+    <Contato />
+    <Atividade>Advogados</Atividade>
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CATÓLICA - Teodomar Rodrigues - Diretor</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3374-2126</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CONSTRUTORA - MGR</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3964-5770</FoneCom>
+    <FoneCel>8616-9125</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>GEORGE ALBERTO</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CINTIA - EMPLAVI</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3966-1919</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>Maltratar Animais</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>181</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>ENCANADOR</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Gedeon 8436-9681 / Darcy 8423-9556</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>RECEITA FEDERAL</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3312-8415</FoneCom>
+    <FoneCel>3312-8192</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato>Juliana/Ribeiro</Contato>
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>DR. ARIEDNA</Nome>
+    <Ender>SHLS 716 BL. F Centro Med. de Brasília SL 505</Ender>
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3245-1661</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade>DENTISTA</Atividade>
+    <Obs>CONVÊNIO GOLDEN CROSS</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>VPN - Emplavi</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs>Usuário: alphar Pss: alpha@1010</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>INVESTDF</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3966-1919</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>BANCO ITAU</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3316-4847</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet>daisy.curado@itau-unibanco.com.br</EnderElet>
+    <Contato>Pâmela</Contato>
+    <Atividade />
+    <Obs>Dayse 9666-0740 Carteira 109 - CNAB400</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>QUIMIPLAST INDUSTRIA DE FORRO PVC LTDA</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom />
+    <FoneCel>(24) 9220-1000</FoneCel>
+    <FoneRes>(24) 2255-4358</FoneRes>
+    <PaginaWeb>(61) 9275-9379</PaginaWeb>
+    <EnderElet>marcilionavarro@gmail.com</EnderElet>
+    <Contato>Marcílio</Contato>
+    <Atividade>quimiplast.rio@gmail.com</Atividade>
+    <Obs>11.099.088/0001-67      insc. 78.835.605</Obs>
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>CONDOMINIO</Nome>
+    <Ender />
+    <Bairro />
+    <Cid />
+    <Uf xml:space="preserve">  </Uf>
+    <Cep xml:space="preserve">        </Cep>
+    <FoneCom>3039-8000</FoneCom>
+    <FoneCel />
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+  <vwLerContatos>
+    <Nome>SPC - CDL</Nome>
+    <Ender>SCS QD. 6 Bl. A Lote 10 e 11</Ender>
+    <Bairro>ASA SUL</Bairro>
+    <Cid>Brasilia</Cid>
+    <Uf>DF</Uf>
+    <Cep>70306905</Cep>
+    <FoneCom>3218-1422</FoneCom>
+    <FoneCel>3218-1487 FAX</FoneCel>
+    <FoneRes />
+    <PaginaWeb />
+    <EnderElet />
+    <Contato />
+    <Atividade />
+    <Obs />
+  </vwLerContatos>
+</dsSalvarLerContatos>

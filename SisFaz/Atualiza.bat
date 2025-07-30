@@ -1,0 +1,1 @@
+copy C:\SisFaz\SisFaz\bin\Release\SisFaz.exe   T:\Fazendas\SisFaz

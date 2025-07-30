@@ -1,0 +1,1 @@
+data source=sonyvaio15;initial catalog=Agenda;password=login@1010;persist security info=True;user id=LoginAgenda;packet size=4096

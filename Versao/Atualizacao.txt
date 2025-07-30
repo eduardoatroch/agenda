@@ -1,0 +1,291 @@
+/*
+  Agenda....: Versão 1.0.0.1
+  Objetivo..: Acrescentar Telefones em lista
+              Acrescentar Emails em lista
+
+  Atividades: - Alteração na tebale Contato, remover os campos de telefone
+
+*/
+
+
+
+/****** Object:  Table [dbo].[ContatoFone]    Script Date: 08/18/2015 11:14:09 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[ContatoFone](
+	[idContatoFone] [smallint] IDENTITY(1,1) NOT NULL,
+	[CodigoContato] [int] NULL,
+	[NumeroTelefone] [varchar](20) NULL,
+	[Tipo] [char](3) NULL,
+	[Principal] [bit] NULL,
+ CONSTRAINT [PK_ContatoFone] PRIMARY KEY CLUSTERED 
+(
+	[idContatoFone] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+EXEC sys.sp_addextendedproperty @name=N'MS_Description', @value=N'T-Trabalho, R-Residencial, C-Celular, X-Recado' , @level0type=N'SCHEMA',@level0name=N'dbo', @level1type=N'TABLE',@level1name=N'ContatoFone', @level2type=N'COLUMN',@level2name=N'Tipo'
+GO
+
+
+/****** Object:  Table [dbo].[ContatoEmail]    Script Date: 08/22/2015 12:00:55 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[ContatoEmail](
+	[idContatoEmail] [smallint] IDENTITY(1,1) NOT NULL,
+	[CodigoContato] [int] NULL,
+	[DescricaoEmail] [varchar](50) NULL,
+	[Principal] [bit] NULL,
+ CONSTRAINT [PK_ContatoEmail] PRIMARY KEY CLUSTERED 
+(
+	[idContatoEmail] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+SET ANSI_PADDING OFF
+GO
+
+
+create FUNCTION [dbo].[fctRetornarTelefonesContato](@CodigoContato int) RETURNS varchar(200)
+AS
+BEGIN
+	Declare @telefones varchar(200)	
+	Declare @retorno varchar(200)
+	Declare @tam smallint
+	
+	Declare cr_fone cursor
+		
+	FAST_FORWARD
+	
+	FOR SELECT 
+	    case F."Tipo"
+	       when 'COM' then F.NumeroTelefone + '(COM)'
+	       when 'RES' then F.NumeroTelefone + '(RES)'
+	       when 'CEL' then F.NumeroTelefone + '(CEL)'
+	       when 'REC' then F.NumeroTelefone + '(REC)'
+               when 'FAX' then F.NumeroTelefone + '(FAX)'
+	       else	'(Tipo não identificado)'
+	    end 
+	FROM "dbo"."ContatoFone" F    
+	where F."CodigoContato" = @CodigoContato
+	
+	open cr_fone
+	
+	Set @retorno = ''
+	
+    FETCH NEXT FROM cr_Fone into @telefones
+    WHILE @@FETCH_STATUS = 0 BEGIN
+       SET @retorno = @retorno + @telefones + ','
+       FETCH NEXT FROM cr_Fone into @telefones
+    END
+	Close cr_fone
+	Deallocate cr_fone
+
+    select @tam=LEN(@Retorno)
+    
+    if @tam>1 begin
+       select @tam = @tam - 1
+       select @Retorno=LEFT(@Retorno,@tam)
+    end
+        	
+	return isnull(@retorno,'')
+
+END
+GO
+
+
+
+
+create procedure spExcluirContatoEmail
+  @idContatoEmail smallint
+as
+delete from ContatoEmail where idContatoEmail=@idContatoEmail
+GO
+
+
+
+create procedure spExcluirContatoTelefone
+  @idContatoFone SmallInt
+as
+delete from ContatoFone where idContatoFone=@idContatoFone
+GO
+
+
+
+create procedure spSalvarContatoTelefone
+  @CodigoContato int,
+  @Numero varchar(20),
+  @tipo char(3),
+  @principal bit
+as
+insert into ContatoFone(CodigoContato,NumeroTelefone,Tipo,Principal)
+values(@CodigoContato,@Numero,@tipo,@principal)
+GO
+
+
+
+create procedure spIncluirContatoEmail
+  @CodigoContato Int,
+  @DescricaoEmail VarChar(50),
+  @Principal Bit
+as
+if @Principal=1 begin
+   update ContatoEmail set Principal=0 where CodigoContato=@CodigoContato
+end
+
+insert into ContatoEmail(CodigoContato,DescricaoEmail,Principal)
+values(@CodigoContato,@DescricaoEmail,@Principal)
+GO
+
+
+
+create view vwRetornarListaContatosTelefone
+as
+select
+ cf.idContatoFone  as idContatoFone,
+ cf.NumeroTelefone as numeroTelefone,
+ cf.Tipo           as tipo,
+ flagPrincipal=case cf.Principal when 1 then 1 else 0 end,
+ cf.CodigoContato  as codigoContato
+from ContatoFone cf
+GO
+
+
+
+
+create view vwRetornarListaContatosEmail
+as
+select 
+  idContatoEmail as idContatoEmail,
+  CodigoContato  as codigoContato,
+  DescricaoEmail as Email,
+  flagPrincipal=case Principal when 1 then 1 else 0 end
+from ContatoEmail
+GO
+
+
+
+
+ALTER view [dbo].[vwRetornarListaContatos]
+as
+select 
+ CodigoContato as Codigo,
+ isnull(Nome,'') as NomeContato,
+ isnull(endereco,'') as Endereco,
+ isnull(bairro,'') as Bairro,
+ isnull(cidade,'') as Cidade,
+ isnull(uf,'') as UF,
+ isnull(cep,'') as Cep,
+ isnull(site,'') as EnderecoEletronico,
+ isnull(email,'') as EMail,
+ isnull(PessoaContato,'') as PessoaContato,
+ isnull(Atividade,'') as Atividade,
+ isnull(Observacoes,'') as Observacoes,
+ isnull(dbo.fctRetornarTelefonesContato(CodigoContato),'') as Telefones
+from  Contato
+GO
+
+
+
+
+ALTER procedure [dbo].[spIncluirContato]
+  @Nome as varchar(100),
+  @Endereco as varchar(100),
+  @Bairro as varchar(50),
+  @Cidade as varchar(50),
+  @Uf as char(2),
+  @Cep as char(8), 
+  @WWW as varchar(200),
+  @Email as varchar(200),
+  @PessoaContato as varchar(150),
+  @Atividade as varchar(200),
+  @Obs as varchar(500),
+  @CodigoContato as int output
+as
+  insert into Contato(Nome,
+                      Endereco,
+                      Bairro,
+                      Cidade,
+                      Uf,
+                      Cep,                      
+                      Site,
+                      Email,
+                      PessoaContato,
+                      Atividade,
+                      Observacoes)
+  Values(@Nome,
+         @Endereco,
+         @Bairro,
+         @Cidade,
+         @Uf,
+         @Cep,         
+         @WWW,
+         @Email,
+         @PessoaContato,
+         @Atividade,
+         @Obs)
+select @CodigoContato=MAX(CodigoContato) from Contato
+GO
+
+
+
+ALTER procedure [dbo].[spAlterarContato]
+  @Nome as varchar(100),
+  @Endereco as varchar(100),
+  @Bairro as varchar(50),
+  @Cidade as varchar(50),
+  @Uf as char(2),
+  @Cep as char(8),  
+  @WWW as varchar(200),
+  @Email as varchar(200),
+  @PessoaContato as varchar(150),
+  @Atividade as varchar(200),
+  @Obs as varchar(500),
+  @CodigoContato as int
+as
+  update Contato
+  Set Nome=@Nome,
+      Endereco=@Endereco,
+      Bairro=@Bairro,
+      Cidade=@Cidade,
+      Uf=@Uf,
+      Cep=@Cep,     
+      Site=@WWW,
+      Email=@Email,
+      PessoaContato=@PessoaContato,
+      Atividade=@Atividade,
+      Observacoes=@Obs
+  where CodigoContato=@CodigoContato
+
+GO
+
+
+
+ALTER procedure [dbo].[spExcluirContato]
+  @CodigoContato as int
+as
+begin tran
+
+delete from ContatoEmail where CodigoContato=@CodigoContato
+delete from ContatoFone  where CodigoContato=@CodigoContato
+delete from Contato      where CodigoContato=@CodigoContato
+
+if @@ERROR<>0
+   rollback tran
+else
+   commit tran
+
+GO
+
+

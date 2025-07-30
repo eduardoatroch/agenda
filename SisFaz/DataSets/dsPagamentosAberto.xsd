@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPagamentosAberto" targetNamespace="http://tempuri.org/dsPagamentosAberto.xsd" xmlns:mstns="http://tempuri.org/dsPagamentosAberto.xsd" xmlns="http://tempuri.org/dsPagamentosAberto.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="sacConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="sacConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SisFaz.My.MySettings.GlobalReference.Default.sacConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vwPagamentosTableAdapter" GeneratorDataComponentClassName="vwPagamentosTableAdapter" Name="vwPagamentos" UserDataComponentName="vwPagamentosTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="sacConnectionString (MySettings)" DbObjectName="SAC.dbo.vwPagamentos" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT CodigoCap, Documento, Vencimento, ValorOriginal, CodigoFornecedor, NomeFantasia, Pago, Historico FROM dbo.vwPagamentos</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="CodigoCap" DataSetColumn="CodigoCap" />
+              <Mapping SourceColumn="Documento" DataSetColumn="Documento" />
+              <Mapping SourceColumn="Vencimento" DataSetColumn="Vencimento" />
+              <Mapping SourceColumn="ValorOriginal" DataSetColumn="ValorOriginal" />
+              <Mapping SourceColumn="CodigoFornecedor" DataSetColumn="CodigoFornecedor" />
+              <Mapping SourceColumn="NomeFantasia" DataSetColumn="NomeFantasia" />
+              <Mapping SourceColumn="Pago" DataSetColumn="Pago" />
+              <Mapping SourceColumn="Historico" DataSetColumn="Historico" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPagamentosAberto" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsPagamentosAberto" msprop:Generator_DataSetName="dsPagamentosAberto">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vwPagamentos" msprop:Generator_UserTableName="vwPagamentos" msprop:Generator_RowDeletedName="vwPagamentosRowDeleted" msprop:Generator_TableClassName="vwPagamentosDataTable" msprop:Generator_RowChangedName="vwPagamentosRowChanged" msprop:Generator_RowClassName="vwPagamentosRow" msprop:Generator_RowChangingName="vwPagamentosRowChanging" msprop:Generator_RowEvArgName="vwPagamentosRowChangeEvent" msprop:Generator_RowEvHandlerName="vwPagamentosRowChangeEventHandler" msprop:Generator_TablePropName="vwPagamentos" msprop:Generator_TableVarName="tablevwPagamentos" msprop:Generator_RowDeletingName="vwPagamentosRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodigoCap" msdata:ReadOnly="true" msprop:Generator_UserColumnName="CodigoCap" msprop:Generator_ColumnPropNameInRow="CodigoCap" msprop:Generator_ColumnVarNameInTable="columnCodigoCap" msprop:Generator_ColumnPropNameInTable="CodigoCapColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="6" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Documento" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Documento" msprop:Generator_ColumnPropNameInRow="Documento" msprop:Generator_ColumnVarNameInTable="columnDocumento" msprop:Generator_ColumnPropNameInTable="DocumentoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Vencimento" msprop:Generator_UserColumnName="Vencimento" msprop:Generator_ColumnPropNameInRow="Vencimento" msprop:Generator_ColumnVarNameInTable="columnVencimento" msprop:Generator_ColumnPropNameInTable="VencimentoColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ValorOriginal" msprop:Generator_UserColumnName="ValorOriginal" msprop:Generator_ColumnPropNameInRow="ValorOriginal" msprop:Generator_ColumnVarNameInTable="columnValorOriginal" msprop:Generator_ColumnPropNameInTable="ValorOriginalColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CodigoFornecedor" msprop:Generator_UserColumnName="CodigoFornecedor" msprop:Generator_ColumnPropNameInRow="CodigoFornecedor" msprop:Generator_ColumnVarNameInTable="columnCodigoFornecedor" msprop:Generator_ColumnPropNameInTable="CodigoFornecedorColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="NomeFantasia" msprop:Generator_UserColumnName="NomeFantasia" msprop:Generator_ColumnPropNameInRow="NomeFantasia" msprop:Generator_ColumnVarNameInTable="columnNomeFantasia" msprop:Generator_ColumnPropNameInTable="NomeFantasiaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Pago" msprop:Generator_UserColumnName="Pago" msprop:Generator_ColumnPropNameInRow="Pago" msprop:Generator_ColumnVarNameInTable="columnPago" msprop:Generator_ColumnPropNameInTable="PagoColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Historico" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Historico" msprop:Generator_ColumnPropNameInRow="Historico" msprop:Generator_ColumnVarNameInTable="columnHistorico" msprop:Generator_ColumnPropNameInTable="HistoricoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

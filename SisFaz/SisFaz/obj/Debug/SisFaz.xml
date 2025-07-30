@@ -1,0 +1,144 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SisFaz
+</name>
+</assembly>
+<members>
+<member name="T:SisFaz.dsImprimirBoletos.spRptImprimirBoletosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisFaz.dsImprimirBoletos.spRptImprimirBoletosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisFaz.dsImprimirBoletos.spRptImprimirBoletosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisFaz.dsImprimirBoletos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SisFaz.dsImprimirBoletosTableAdapters.spRptImprimirBoletosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisFaz.dsRptTitulos.vwRptTitulosAbertoPorVencimentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisFaz.dsRptTitulos.vwRptTitulosAbertoPorVencimentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisFaz.dsRptTitulos.vwRptTitulosAbertoPorVencimentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisFaz.dsRptTitulos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SisFaz.dsRptTitulosTableAdapters.vwRptTitulosAbertoPorVencimentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisFaz.dsFornecedores.vwFornecdoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisFaz.dsFornecedores.vwFornecdoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisFaz.dsFornecedores.vwFornecdoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisFaz.dsFornecedores">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SisFaz.dsFornecedoresTableAdapters.vwFornecdoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:SisFaz.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SisFaz.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SisFaz.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SisFaz.dsMovimentoCaixa.vwMovimentoCaixaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisFaz.dsMovimentoCaixa.vwMovimentoCaixaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisFaz.dsMovimentoCaixa.vwMovimentoCaixaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisFaz.dsMovimentoCaixa">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SisFaz.dsMovimentoCaixaTableAdapters.vwMovimentoCaixaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisFaz.dsRecebimentos.vwRecebimentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisFaz.dsRecebimentos.vwRecebimentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisFaz.dsRecebimentos.vwRecebimentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisFaz.dsRecebimentos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SisFaz.dsRecebimentosTableAdapters.vwRecebimentosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisFaz.dsRptCheques.vwRptChequesEmitidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisFaz.dsRptCheques.vwRptChequesEmitidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisFaz.dsRptCheques.vwRptChequesEmitidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisFaz.dsRptCheques">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SisFaz.dsRptChequesTableAdapters.vwRptChequesEmitidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>
