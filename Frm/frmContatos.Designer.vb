@@ -222,7 +222,7 @@ Partial Class frmContatos
         Me.btnPesquisar.Cursor = System.Windows.Forms.Cursors.Hand
         Me.btnPesquisar.Image = Global.Agenda.My.Resources.Resources.BINOCULR
         Me.btnPesquisar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnPesquisar.Location = New System.Drawing.Point(243, 18)
+        Me.btnPesquisar.Location = New System.Drawing.Point(310, 16)
         Me.btnPesquisar.Name = "btnPesquisar"
         Me.btnPesquisar.Size = New System.Drawing.Size(87, 29)
         Me.btnPesquisar.TabIndex = 8
@@ -321,7 +321,7 @@ Partial Class frmContatos
         Me.GroupBox1.Controls.Add(Me.txtPesquisar)
         Me.GroupBox1.Location = New System.Drawing.Point(279, 72)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(338, 54)
+        Me.GroupBox1.Size = New System.Drawing.Size(404, 54)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Pesquisar"
@@ -331,7 +331,7 @@ Partial Class frmContatos
         Me.txtPesquisar.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.txtPesquisar.Location = New System.Drawing.Point(6, 22)
         Me.txtPesquisar.Name = "txtPesquisar"
-        Me.txtPesquisar.Size = New System.Drawing.Size(232, 20)
+        Me.txtPesquisar.Size = New System.Drawing.Size(298, 20)
         Me.txtPesquisar.TabIndex = 0
         '
         'OFD
