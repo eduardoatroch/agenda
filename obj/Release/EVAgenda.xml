@@ -8,88 +8,88 @@ EVAgenda
 <members>
 <member name="T:Agenda.My.Resources.Resources">
 <summary>
-  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+  A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.ResourceManager">
 <summary>
-  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+  Returns the cached ResourceManager instance used by this class.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.Culture">
 <summary>
-  Substitui a propriedade CurrentUICulture do thread atual para todas as
-  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.ARW10NE">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.ARW10SE">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.BINOCULR">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.DISK04">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.EXITS">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.EXITS1">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.Ink_Jet">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.NOTE11">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.NOTE14">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.pessoas">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.printer">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.silhueta_do_usuario_318_79814">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.Telefone">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Agenda.My.Resources.Resources.WASTE">
 <summary>
-  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="T:Agenda.dsContatos">

@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\AGORA\\ProjetosDotNetWin\\Agenda\\",
+  "WorkspaceRootPath": "C:\\defensoria\\AGORA\\ProjetosDotNetWin\\Agenda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E29747C8-FCC7-475C-BC52-905DDA05BF00}|Agenda.vbproj|c:\\agora\\projetosdotnetwin\\agenda\\frm\\frmcontatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{E29747C8-FCC7-475C-BC52-905DDA05BF00}|Agenda.vbproj|C:\\defensoria\\AGORA\\ProjetosDotNetWin\\Agenda\\frm\\frmcontatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E29747C8-FCC7-475C-BC52-905DDA05BF00}|Agenda.vbproj|solutionrelative:frm\\frmcontatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E29747C8-FCC7-475C-BC52-905DDA05BF00}|Agenda.vbproj|C:\\AGORA\\ProjetosDotNetWin\\Agenda\\frm\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{E29747C8-FCC7-475C-BC52-905DDA05BF00}|Agenda.vbproj|c:\\defensoria\\agora\\projetosdotnetwin\\agenda\\frm\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E29747C8-FCC7-475C-BC52-905DDA05BF00}|Agenda.vbproj|solutionrelative:frm\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E29747C8-FCC7-475C-BC52-905DDA05BF00}|Agenda.vbproj|C:\\AGORA\\ProjetosDotNetWin\\Agenda\\classes\\bancodedados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{E29747C8-FCC7-475C-BC52-905DDA05BF00}|Agenda.vbproj|c:\\defensoria\\agora\\projetosdotnetwin\\agenda\\classes\\bancodedados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E29747C8-FCC7-475C-BC52-905DDA05BF00}|Agenda.vbproj|solutionrelative:classes\\bancodedados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E29747C8-FCC7-475C-BC52-905DDA05BF00}|Agenda.vbproj|C:\\AGORA\\ProjetosDotNetWin\\Agenda\\frm\\frmcontatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{E29747C8-FCC7-475C-BC52-905DDA05BF00}|Agenda.vbproj|C:\\defensoria\\AGORA\\ProjetosDotNetWin\\Agenda\\frm\\frmcontatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E29747C8-FCC7-475C-BC52-905DDA05BF00}|Agenda.vbproj|solutionrelative:frm\\frmcontatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -26,31 +26,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.vb [Design]",
+              "DocumentMoniker": "C:\\defensoria\\AGORA\\ProjetosDotNetWin\\Agenda\\Frm\\frmPrincipal.vb",
+              "RelativeDocumentMoniker": "Frm\\frmPrincipal.vb",
+              "ToolTip": "C:\\defensoria\\AGORA\\ProjetosDotNetWin\\Agenda\\Frm\\frmPrincipal.vb [Design]",
+              "RelativeToolTip": "Frm\\frmPrincipal.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-22T11:14:40.232Z",
+              "EditorCaption": " [Design]"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BancoDeDados.vb",
-              "DocumentMoniker": "C:\\AGORA\\ProjetosDotNetWin\\Agenda\\Classes\\BancoDeDados.vb",
+              "DocumentMoniker": "C:\\defensoria\\AGORA\\ProjetosDotNetWin\\Agenda\\Classes\\BancoDeDados.vb",
               "RelativeDocumentMoniker": "Classes\\BancoDeDados.vb",
-              "ToolTip": "C:\\AGORA\\ProjetosDotNetWin\\Agenda\\Classes\\BancoDeDados.vb",
+              "ToolTip": "C:\\defensoria\\AGORA\\ProjetosDotNetWin\\Agenda\\Classes\\BancoDeDados.vb",
               "RelativeToolTip": "Classes\\BancoDeDados.vb",
-              "ViewState": "AgIAACIAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-23T19:46:34.65Z"
+              "WhenOpened": "2024-07-23T19:46:34.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmContatos.vb [Design]",
-              "DocumentMoniker": "C:\\AGORA\\ProjetosDotNetWin\\Agenda\\Frm\\frmContatos.vb",
+              "DocumentMoniker": "C:\\defensoria\\AGORA\\ProjetosDotNetWin\\Agenda\\Frm\\frmContatos.vb",
               "RelativeDocumentMoniker": "Frm\\frmContatos.vb",
-              "ToolTip": "C:\\AGORA\\ProjetosDotNetWin\\Agenda\\Frm\\frmContatos.vb [Design]",
+              "ToolTip": "C:\\defensoria\\AGORA\\ProjetosDotNetWin\\Agenda\\Frm\\frmContatos.vb [Design]",
               "RelativeToolTip": "Frm\\frmContatos.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-07-23T12:39:23.739Z",
@@ -60,24 +81,14 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "frmContatos.vb",
-              "DocumentMoniker": "C:\\AGORA\\ProjetosDotNetWin\\Agenda\\Frm\\frmContatos.vb",
+              "DocumentMoniker": "C:\\defensoria\\AGORA\\ProjetosDotNetWin\\Agenda\\Frm\\frmContatos.vb",
               "RelativeDocumentMoniker": "Frm\\frmContatos.vb",
-              "ToolTip": "C:\\AGORA\\ProjetosDotNetWin\\Agenda\\Frm\\frmContatos.vb",
+              "ToolTip": "C:\\defensoria\\AGORA\\ProjetosDotNetWin\\Agenda\\Frm\\frmContatos.vb",
               "RelativeToolTip": "Frm\\frmContatos.vb",
               "ViewState": "AgIAAE4CAAAAAAAAAAD4v1gCAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2023-06-20T18:22:34.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmPrincipal.vb [Design]",
-              "DocumentMoniker": "C:\\AGORA\\ProjetosDotNetWin\\Agenda\\Frm\\frmPrincipal.vb",
-              "RelativeDocumentMoniker": "Frm\\frmPrincipal.vb",
-              "ToolTip": "C:\\AGORA\\ProjetosDotNetWin\\Agenda\\Frm\\frmPrincipal.vb [Design]",
-              "RelativeToolTip": "Frm\\frmPrincipal.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2023-06-20T18:06:19.455Z"
+              "WhenOpened": "2023-06-20T18:22:34.311Z",
+              "EditorCaption": ""
             }
           ]
         }
