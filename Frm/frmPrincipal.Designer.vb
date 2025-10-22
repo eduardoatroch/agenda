@@ -28,12 +28,12 @@ Partial Class frmPrincipal
         Me.Button1 = New System.Windows.Forms.Button()
         Me.lblVersao = New System.Windows.Forms.Label()
         Me.grpLogin = New System.Windows.Forms.GroupBox()
+        Me.lblMensagem = New System.Windows.Forms.Label()
         Me.txtSenha = New System.Windows.Forms.TextBox()
         Me.txtLogin = New System.Windows.Forms.TextBox()
         Me.btnAcessar = New System.Windows.Forms.Button()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
-        Me.lblMensagem = New System.Windows.Forms.Label()
         Me.pbImagemTela = New System.Windows.Forms.PictureBox()
         Me.grpTipoConexao.SuspendLayout()
         Me.grpLogin.SuspendLayout()
@@ -65,13 +65,14 @@ Partial Class frmPrincipal
         '
         'btnSair
         '
+        Me.btnSair.BackColor = System.Drawing.Color.Silver
         Me.btnSair.DialogResult = System.Windows.Forms.DialogResult.Cancel
         Me.btnSair.Location = New System.Drawing.Point(887, 12)
         Me.btnSair.Name = "btnSair"
         Me.btnSair.Size = New System.Drawing.Size(74, 33)
         Me.btnSair.TabIndex = 3
         Me.btnSair.Text = "Sair"
-        Me.btnSair.UseVisualStyleBackColor = True
+        Me.btnSair.UseVisualStyleBackColor = False
         '
         'Button1
         '
@@ -109,6 +110,16 @@ Partial Class frmPrincipal
         Me.grpLogin.TabStop = False
         Me.grpLogin.Text = "Login"
         '
+        'lblMensagem
+        '
+        Me.lblMensagem.AutoSize = True
+        Me.lblMensagem.BackColor = System.Drawing.Color.White
+        Me.lblMensagem.Location = New System.Drawing.Point(10, 107)
+        Me.lblMensagem.Name = "lblMensagem"
+        Me.lblMensagem.Size = New System.Drawing.Size(59, 13)
+        Me.lblMensagem.TabIndex = 14
+        Me.lblMensagem.Text = "Mensagem"
+        '
         'txtSenha
         '
         Me.txtSenha.Location = New System.Drawing.Point(59, 48)
@@ -127,12 +138,13 @@ Partial Class frmPrincipal
         '
         'btnAcessar
         '
+        Me.btnAcessar.BackColor = System.Drawing.Color.Silver
         Me.btnAcessar.Location = New System.Drawing.Point(197, 75)
         Me.btnAcessar.Name = "btnAcessar"
         Me.btnAcessar.Size = New System.Drawing.Size(74, 33)
         Me.btnAcessar.TabIndex = 0
         Me.btnAcessar.Text = "Acessar ->"
-        Me.btnAcessar.UseVisualStyleBackColor = True
+        Me.btnAcessar.UseVisualStyleBackColor = False
         '
         'Label4
         '
@@ -152,16 +164,6 @@ Partial Class frmPrincipal
         Me.Label3.Size = New System.Drawing.Size(46, 13)
         Me.Label3.TabIndex = 0
         Me.Label3.Text = "Usuário:"
-        '
-        'lblMensagem
-        '
-        Me.lblMensagem.AutoSize = True
-        Me.lblMensagem.BackColor = System.Drawing.Color.White
-        Me.lblMensagem.Location = New System.Drawing.Point(10, 107)
-        Me.lblMensagem.Name = "lblMensagem"
-        Me.lblMensagem.Size = New System.Drawing.Size(59, 13)
-        Me.lblMensagem.TabIndex = 14
-        Me.lblMensagem.Text = "Mensagem"
         '
         'pbImagemTela
         '
