@@ -83,6 +83,8 @@ Partial Class frmIncluirEditarContato
         Me.txtNumeroTelefone = New System.Windows.Forms.TextBox()
         Me.Label16 = New System.Windows.Forms.Label()
         Me.cboTipoPessoa = New System.Windows.Forms.ComboBox()
+        Me.Label17 = New System.Windows.Forms.Label()
+        Me.txtID = New System.Windows.Forms.TextBox()
         Me.grpTelefones.SuspendLayout()
         Me.grpEmail.SuspendLayout()
         Me.grpEdicaoEmail.SuspendLayout()
@@ -93,7 +95,7 @@ Partial Class frmIncluirEditarContato
         '
         Me.cboUF.FormattingEnabled = True
         Me.cboUF.Items.AddRange(New Object() {"AC - Acre", "AL - Alagoas", "AM - Amazonas", "AP - Amapá", "BA - Bahia", "CE - Ceará", "DF - Distrito Federal", "ES - Espírito Santo", "GO - Goiás", "MA - Maranhão", "MG - Minas Gerais", "MS - Mato Grosso do Sul", "MT - Mato Grosso", "PA - Pará", "PB - Paraíba", "PE - Pernambuco", "PI - Piauí", "PR - Paraná", "RJ - Rio de Janeiro", "RN - Rio Grande do Norte", "RO - Rondônia", "RR - Roraima", "RS - Rio Grande do Sul", "SC - Santa Catarina", "SE - Sergipe", "SP - São Paulo", "TO - Tocantins"})
-        Me.cboUF.Location = New System.Drawing.Point(122, 146)
+        Me.cboUF.Location = New System.Drawing.Point(122, 155)
         Me.cboUF.MaxLength = 2
         Me.cboUF.Name = "cboUF"
         Me.cboUF.Size = New System.Drawing.Size(207, 21)
@@ -102,7 +104,7 @@ Partial Class frmIncluirEditarContato
         'txtNome
         '
         Me.txtNome.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtNome.Location = New System.Drawing.Point(122, 11)
+        Me.txtNome.Location = New System.Drawing.Point(122, 30)
         Me.txtNome.MaxLength = 100
         Me.txtNome.Name = "txtNome"
         Me.txtNome.Size = New System.Drawing.Size(422, 20)
@@ -112,7 +114,7 @@ Partial Class frmIncluirEditarContato
         '
         Me.Label1.AutoSize = True
         Me.Label1.ForeColor = System.Drawing.Color.Black
-        Me.Label1.Location = New System.Drawing.Point(85, 12)
+        Me.Label1.Location = New System.Drawing.Point(81, 32)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(38, 13)
         Me.Label1.TabIndex = 3
@@ -121,7 +123,7 @@ Partial Class frmIncluirEditarContato
         'txtEndereco
         '
         Me.txtEndereco.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtEndereco.Location = New System.Drawing.Point(122, 66)
+        Me.txtEndereco.Location = New System.Drawing.Point(122, 80)
         Me.txtEndereco.MaxLength = 100
         Me.txtEndereco.Name = "txtEndereco"
         Me.txtEndereco.Size = New System.Drawing.Size(422, 20)
@@ -131,7 +133,7 @@ Partial Class frmIncluirEditarContato
         '
         Me.Label2.AutoSize = True
         Me.Label2.ForeColor = System.Drawing.Color.Black
-        Me.Label2.Location = New System.Drawing.Point(65, 68)
+        Me.Label2.Location = New System.Drawing.Point(63, 83)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(56, 13)
         Me.Label2.TabIndex = 5
@@ -140,7 +142,7 @@ Partial Class frmIncluirEditarContato
         'txtCidade
         '
         Me.txtCidade.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtCidade.Location = New System.Drawing.Point(122, 119)
+        Me.txtCidade.Location = New System.Drawing.Point(122, 130)
         Me.txtCidade.MaxLength = 50
         Me.txtCidade.Name = "txtCidade"
         Me.txtCidade.Size = New System.Drawing.Size(209, 20)
@@ -149,7 +151,7 @@ Partial Class frmIncluirEditarContato
         'txtBairro
         '
         Me.txtBairro.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtBairro.Location = New System.Drawing.Point(122, 92)
+        Me.txtBairro.Location = New System.Drawing.Point(122, 105)
         Me.txtBairro.MaxLength = 50
         Me.txtBairro.Name = "txtBairro"
         Me.txtBairro.Size = New System.Drawing.Size(279, 20)
@@ -159,7 +161,7 @@ Partial Class frmIncluirEditarContato
         '
         Me.Label3.AutoSize = True
         Me.Label3.ForeColor = System.Drawing.Color.Black
-        Me.Label3.Location = New System.Drawing.Point(83, 95)
+        Me.Label3.Location = New System.Drawing.Point(82, 108)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(37, 13)
         Me.Label3.TabIndex = 8
@@ -169,7 +171,7 @@ Partial Class frmIncluirEditarContato
         '
         Me.Label4.AutoSize = True
         Me.Label4.ForeColor = System.Drawing.Color.Black
-        Me.Label4.Location = New System.Drawing.Point(78, 122)
+        Me.Label4.Location = New System.Drawing.Point(76, 133)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(43, 13)
         Me.Label4.TabIndex = 9
@@ -179,7 +181,7 @@ Partial Class frmIncluirEditarContato
         '
         Me.Label5.AutoSize = True
         Me.Label5.ForeColor = System.Drawing.Color.Black
-        Me.Label5.Location = New System.Drawing.Point(97, 148)
+        Me.Label5.Location = New System.Drawing.Point(96, 159)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(24, 13)
         Me.Label5.TabIndex = 10
@@ -189,7 +191,7 @@ Partial Class frmIncluirEditarContato
         '
         Me.Label6.AutoSize = True
         Me.Label6.ForeColor = System.Drawing.Color.Black
-        Me.Label6.Location = New System.Drawing.Point(91, 175)
+        Me.Label6.Location = New System.Drawing.Point(88, 183)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(31, 13)
         Me.Label6.TabIndex = 12
@@ -198,7 +200,7 @@ Partial Class frmIncluirEditarContato
         'txtSite
         '
         Me.txtSite.CharacterCasing = System.Windows.Forms.CharacterCasing.Lower
-        Me.txtSite.Location = New System.Drawing.Point(122, 223)
+        Me.txtSite.Location = New System.Drawing.Point(122, 227)
         Me.txtSite.MaxLength = 200
         Me.txtSite.Name = "txtSite"
         Me.txtSite.Size = New System.Drawing.Size(422, 20)
@@ -208,7 +210,7 @@ Partial Class frmIncluirEditarContato
         '
         Me.Label10.AutoSize = True
         Me.Label10.ForeColor = System.Drawing.Color.Black
-        Me.Label10.Location = New System.Drawing.Point(7, 225)
+        Me.Label10.Location = New System.Drawing.Point(6, 230)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(113, 13)
         Me.Label10.TabIndex = 21
@@ -217,7 +219,7 @@ Partial Class frmIncluirEditarContato
         'txtPessoaContato
         '
         Me.txtPessoaContato.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtPessoaContato.Location = New System.Drawing.Point(122, 250)
+        Me.txtPessoaContato.Location = New System.Drawing.Point(122, 252)
         Me.txtPessoaContato.MaxLength = 150
         Me.txtPessoaContato.Name = "txtPessoaContato"
         Me.txtPessoaContato.Size = New System.Drawing.Size(422, 20)
@@ -236,7 +238,7 @@ Partial Class frmIncluirEditarContato
         '
         Me.Label12.AutoSize = True
         Me.Label12.ForeColor = System.Drawing.Color.Black
-        Me.Label12.Location = New System.Drawing.Point(11, 252)
+        Me.Label12.Location = New System.Drawing.Point(11, 255)
         Me.Label12.Name = "Label12"
         Me.Label12.Size = New System.Drawing.Size(109, 13)
         Me.Label12.TabIndex = 25
@@ -246,7 +248,7 @@ Partial Class frmIncluirEditarContato
         '
         Me.Label13.AutoSize = True
         Me.Label13.ForeColor = System.Drawing.Color.Black
-        Me.Label13.Location = New System.Drawing.Point(20, 278)
+        Me.Label13.Location = New System.Drawing.Point(18, 278)
         Me.Label13.Name = "Label13"
         Me.Label13.Size = New System.Drawing.Size(102, 13)
         Me.Label13.TabIndex = 26
@@ -556,7 +558,7 @@ Partial Class frmIncluirEditarContato
         '
         Me.Label8.AutoSize = True
         Me.Label8.ForeColor = System.Drawing.Color.Black
-        Me.Label8.Location = New System.Drawing.Point(29, 199)
+        Me.Label8.Location = New System.Drawing.Point(27, 206)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(92, 13)
         Me.Label8.TabIndex = 32
@@ -564,7 +566,7 @@ Partial Class frmIncluirEditarContato
         '
         'mtxtDataNascimento
         '
-        Me.mtxtDataNascimento.Location = New System.Drawing.Point(122, 197)
+        Me.mtxtDataNascimento.Location = New System.Drawing.Point(122, 203)
         Me.mtxtDataNascimento.Margin = New System.Windows.Forms.Padding(2)
         Me.mtxtDataNascimento.Mask = "00/00/0000"
         Me.mtxtDataNascimento.Name = "mtxtDataNascimento"
@@ -574,7 +576,7 @@ Partial Class frmIncluirEditarContato
         '
         'mtxCep
         '
-        Me.mtxCep.Location = New System.Drawing.Point(122, 171)
+        Me.mtxCep.Location = New System.Drawing.Point(122, 180)
         Me.mtxCep.Mask = "00.000-000"
         Me.mtxCep.Name = "mtxCep"
         Me.mtxCep.Size = New System.Drawing.Size(70, 20)
@@ -665,7 +667,7 @@ Partial Class frmIncluirEditarContato
         '
         Me.Label16.AutoSize = True
         Me.Label16.ForeColor = System.Drawing.Color.Black
-        Me.Label16.Location = New System.Drawing.Point(50, 41)
+        Me.Label16.Location = New System.Drawing.Point(51, 58)
         Me.Label16.Name = "Label16"
         Me.Label16.Size = New System.Drawing.Size(69, 13)
         Me.Label16.TabIndex = 34
@@ -675,11 +677,31 @@ Partial Class frmIncluirEditarContato
         '
         Me.cboTipoPessoa.FormattingEnabled = True
         Me.cboTipoPessoa.Items.AddRange(New Object() {"Física", "Jurídica"})
-        Me.cboTipoPessoa.Location = New System.Drawing.Point(122, 37)
+        Me.cboTipoPessoa.Location = New System.Drawing.Point(122, 54)
         Me.cboTipoPessoa.Name = "cboTipoPessoa"
         Me.cboTipoPessoa.Size = New System.Drawing.Size(207, 21)
         Me.cboTipoPessoa.TabIndex = 1
         Me.cboTipoPessoa.Text = "Selecione"
+        '
+        'Label17
+        '
+        Me.Label17.AutoSize = True
+        Me.Label17.ForeColor = System.Drawing.Color.Black
+        Me.Label17.Location = New System.Drawing.Point(98, 8)
+        Me.Label17.Name = "Label17"
+        Me.Label17.Size = New System.Drawing.Size(21, 13)
+        Me.Label17.TabIndex = 35
+        Me.Label17.Text = "ID:"
+        '
+        'txtID
+        '
+        Me.txtID.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtID.Location = New System.Drawing.Point(122, 5)
+        Me.txtID.MaxLength = 100
+        Me.txtID.Name = "txtID"
+        Me.txtID.ReadOnly = True
+        Me.txtID.Size = New System.Drawing.Size(422, 20)
+        Me.txtID.TabIndex = 36
         '
         'frmIncluirEditarContato
         '
@@ -688,6 +710,8 @@ Partial Class frmIncluirEditarContato
         Me.BackColor = System.Drawing.Color.Silver
         Me.CancelButton = Me.btnSair
         Me.ClientSize = New System.Drawing.Size(1067, 603)
+        Me.Controls.Add(Me.txtID)
+        Me.Controls.Add(Me.Label17)
         Me.Controls.Add(Me.cboTipoPessoa)
         Me.Controls.Add(Me.Label16)
         Me.Controls.Add(Me.grpEdicaoTelefone)
@@ -794,4 +818,6 @@ Partial Class frmIncluirEditarContato
     Friend WithEvents Label11 As Label
     Friend WithEvents Label16 As Label
     Friend WithEvents cboTipoPessoa As ComboBox
+    Friend WithEvents Label17 As Label
+    Friend WithEvents txtID As TextBox
 End Class

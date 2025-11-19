@@ -46,7 +46,7 @@ Public Class frmIncluirEditarContato
         'Classe foi instanciada acima
 
         Try
-
+            Me.txtID.Text = clsContato.DadosContato.idContato.ToString
             Me.txtNome.Text = clsContato.DadosContato.Nome.Trim
             Me.txtEndereco.Text = clsContato.DadosContato.Endereco.Trim
             Me.txtBairro.Text = clsContato.DadosContato.Bairro.Trim
