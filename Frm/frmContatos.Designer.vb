@@ -47,6 +47,9 @@ Partial Class frmContatos
         Me.btnAlterar = New System.Windows.Forms.Button()
         Me.btnIncluir = New System.Windows.Forms.Button()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.rbPesqGeral = New System.Windows.Forms.RadioButton()
+        Me.rbPesqAtividade = New System.Windows.Forms.RadioButton()
+        Me.rbPesqNome = New System.Windows.Forms.RadioButton()
         Me.txtPesquisar = New System.Windows.Forms.TextBox()
         Me.OFD = New System.Windows.Forms.OpenFileDialog()
         Me.SFD = New System.Windows.Forms.SaveFileDialog()
@@ -79,9 +82,6 @@ Partial Class frmContatos
         Me.flagPrincipal = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.eml_CodigoContato = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.btnSair = New System.Windows.Forms.Button()
-        Me.rbPesqNome = New System.Windows.Forms.RadioButton()
-        Me.rbPesqAtividade = New System.Windows.Forms.RadioButton()
-        Me.rbPesqGeral = New System.Windows.Forms.RadioButton()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -220,7 +220,7 @@ Partial Class frmContatos
         Me.btnPesquisar.Cursor = System.Windows.Forms.Cursors.Hand
         Me.btnPesquisar.Image = Global.Agenda.My.Resources.Resources.BINOCULR
         Me.btnPesquisar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnPesquisar.Location = New System.Drawing.Point(243, 31)
+        Me.btnPesquisar.Location = New System.Drawing.Point(321, 31)
         Me.btnPesquisar.Name = "btnPesquisar"
         Me.btnPesquisar.Size = New System.Drawing.Size(87, 29)
         Me.btnPesquisar.TabIndex = 8
@@ -322,17 +322,49 @@ Partial Class frmContatos
         Me.GroupBox1.Controls.Add(Me.txtPesquisar)
         Me.GroupBox1.Location = New System.Drawing.Point(19, 64)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(338, 67)
+        Me.GroupBox1.Size = New System.Drawing.Size(415, 67)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Pesquisar"
         '
+        'rbPesqGeral
+        '
+        Me.rbPesqGeral.AutoSize = True
+        Me.rbPesqGeral.Location = New System.Drawing.Point(360, 10)
+        Me.rbPesqGeral.Name = "rbPesqGeral"
+        Me.rbPesqGeral.Size = New System.Drawing.Size(50, 17)
+        Me.rbPesqGeral.TabIndex = 11
+        Me.rbPesqGeral.Text = "Geral"
+        Me.rbPesqGeral.UseVisualStyleBackColor = True
+        '
+        'rbPesqAtividade
+        '
+        Me.rbPesqAtividade.AutoSize = True
+        Me.rbPesqAtividade.Location = New System.Drawing.Point(290, 10)
+        Me.rbPesqAtividade.Name = "rbPesqAtividade"
+        Me.rbPesqAtividade.Size = New System.Drawing.Size(69, 17)
+        Me.rbPesqAtividade.TabIndex = 10
+        Me.rbPesqAtividade.Text = "Atividade"
+        Me.rbPesqAtividade.UseVisualStyleBackColor = True
+        '
+        'rbPesqNome
+        '
+        Me.rbPesqNome.AutoSize = True
+        Me.rbPesqNome.Checked = True
+        Me.rbPesqNome.Location = New System.Drawing.Point(236, 10)
+        Me.rbPesqNome.Name = "rbPesqNome"
+        Me.rbPesqNome.Size = New System.Drawing.Size(53, 17)
+        Me.rbPesqNome.TabIndex = 9
+        Me.rbPesqNome.TabStop = True
+        Me.rbPesqNome.Text = "Nome"
+        Me.rbPesqNome.UseVisualStyleBackColor = True
+        '
         'txtPesquisar
         '
         Me.txtPesquisar.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtPesquisar.Location = New System.Drawing.Point(6, 35)
+        Me.txtPesquisar.Location = New System.Drawing.Point(6, 39)
         Me.txtPesquisar.Name = "txtPesquisar"
-        Me.txtPesquisar.Size = New System.Drawing.Size(232, 20)
+        Me.txtPesquisar.Size = New System.Drawing.Size(309, 20)
         Me.txtPesquisar.TabIndex = 0
         '
         'OFD
@@ -344,7 +376,7 @@ Partial Class frmContatos
         Me.chkQualquerParteDoNome.AutoSize = True
         Me.chkQualquerParteDoNome.Checked = True
         Me.chkQualquerParteDoNome.CheckState = System.Windows.Forms.CheckState.Checked
-        Me.chkQualquerParteDoNome.Location = New System.Drawing.Point(26, 80)
+        Me.chkQualquerParteDoNome.Location = New System.Drawing.Point(26, 85)
         Me.chkQualquerParteDoNome.Margin = New System.Windows.Forms.Padding(2)
         Me.chkQualquerParteDoNome.Name = "chkQualquerParteDoNome"
         Me.chkQualquerParteDoNome.Size = New System.Drawing.Size(140, 17)
@@ -513,38 +545,6 @@ Partial Class frmContatos
         Me.btnSair.Text = "Sair"
         Me.btnSair.TextAlign = System.Drawing.ContentAlignment.BottomCenter
         Me.btnSair.UseVisualStyleBackColor = True
-        '
-        'rbPesqNome
-        '
-        Me.rbPesqNome.AutoSize = True
-        Me.rbPesqNome.Checked = True
-        Me.rbPesqNome.Location = New System.Drawing.Point(159, 10)
-        Me.rbPesqNome.Name = "rbPesqNome"
-        Me.rbPesqNome.Size = New System.Drawing.Size(53, 17)
-        Me.rbPesqNome.TabIndex = 9
-        Me.rbPesqNome.TabStop = True
-        Me.rbPesqNome.Text = "Nome"
-        Me.rbPesqNome.UseVisualStyleBackColor = True
-        '
-        'rbPesqAtividade
-        '
-        Me.rbPesqAtividade.AutoSize = True
-        Me.rbPesqAtividade.Location = New System.Drawing.Point(213, 10)
-        Me.rbPesqAtividade.Name = "rbPesqAtividade"
-        Me.rbPesqAtividade.Size = New System.Drawing.Size(69, 17)
-        Me.rbPesqAtividade.TabIndex = 10
-        Me.rbPesqAtividade.Text = "Atividade"
-        Me.rbPesqAtividade.UseVisualStyleBackColor = True
-        '
-        'rbPesqGeral
-        '
-        Me.rbPesqGeral.AutoSize = True
-        Me.rbPesqGeral.Location = New System.Drawing.Point(283, 10)
-        Me.rbPesqGeral.Name = "rbPesqGeral"
-        Me.rbPesqGeral.Size = New System.Drawing.Size(50, 17)
-        Me.rbPesqGeral.TabIndex = 11
-        Me.rbPesqGeral.Text = "Geral"
-        Me.rbPesqGeral.UseVisualStyleBackColor = True
         '
         'frmContatos
         '
