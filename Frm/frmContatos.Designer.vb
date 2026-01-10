@@ -220,7 +220,7 @@ Partial Class frmContatos
         Me.btnPesquisar.Cursor = System.Windows.Forms.Cursors.Hand
         Me.btnPesquisar.Image = Global.Agenda.My.Resources.Resources.BINOCULR
         Me.btnPesquisar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnPesquisar.Location = New System.Drawing.Point(321, 31)
+        Me.btnPesquisar.Location = New System.Drawing.Point(311, 31)
         Me.btnPesquisar.Name = "btnPesquisar"
         Me.btnPesquisar.Size = New System.Drawing.Size(87, 29)
         Me.btnPesquisar.TabIndex = 8
@@ -330,7 +330,7 @@ Partial Class frmContatos
         'rbPesqGeral
         '
         Me.rbPesqGeral.AutoSize = True
-        Me.rbPesqGeral.Location = New System.Drawing.Point(360, 10)
+        Me.rbPesqGeral.Location = New System.Drawing.Point(352, 10)
         Me.rbPesqGeral.Name = "rbPesqGeral"
         Me.rbPesqGeral.Size = New System.Drawing.Size(50, 17)
         Me.rbPesqGeral.TabIndex = 11
@@ -340,7 +340,7 @@ Partial Class frmContatos
         'rbPesqAtividade
         '
         Me.rbPesqAtividade.AutoSize = True
-        Me.rbPesqAtividade.Location = New System.Drawing.Point(290, 10)
+        Me.rbPesqAtividade.Location = New System.Drawing.Point(282, 10)
         Me.rbPesqAtividade.Name = "rbPesqAtividade"
         Me.rbPesqAtividade.Size = New System.Drawing.Size(69, 17)
         Me.rbPesqAtividade.TabIndex = 10
@@ -351,7 +351,7 @@ Partial Class frmContatos
         '
         Me.rbPesqNome.AutoSize = True
         Me.rbPesqNome.Checked = True
-        Me.rbPesqNome.Location = New System.Drawing.Point(236, 10)
+        Me.rbPesqNome.Location = New System.Drawing.Point(228, 10)
         Me.rbPesqNome.Name = "rbPesqNome"
         Me.rbPesqNome.Size = New System.Drawing.Size(53, 17)
         Me.rbPesqNome.TabIndex = 9
@@ -364,7 +364,7 @@ Partial Class frmContatos
         Me.txtPesquisar.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.txtPesquisar.Location = New System.Drawing.Point(6, 39)
         Me.txtPesquisar.Name = "txtPesquisar"
-        Me.txtPesquisar.Size = New System.Drawing.Size(309, 20)
+        Me.txtPesquisar.Size = New System.Drawing.Size(284, 20)
         Me.txtPesquisar.TabIndex = 0
         '
         'OFD

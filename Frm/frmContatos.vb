@@ -477,7 +477,7 @@ Public Class frmContatos
     Private Sub btnAlterar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnAlterar.Click
 
         If Me.lstvContatos.SelectedItems.Count = 0 Then
-            MsgBox("Selecione o Contato que deseja alterar.", MsgBoxStyle.Exclamation)
+            MsgBox("Selecione o Contato que deseja fazer alteraçções.", MsgBoxStyle.Exclamation)
             Exit Sub
         End If
 
